@@ -1,0 +1,5000 @@
+66 67 
+-1 | SCISSORS  WIN! Round Score: 9
+67 67 
+0 | SCISSORS  DRAW! Round Score: 6
+67 67 
+0 | SCISSORS  DRAW! Round Score: 6
+65 66 
+-1 | PAPER  WIN! Round Score: 8
+66 67 
+-1 | SCISSORS  WIN! Round Score: 9
+67 66 
+1 | PAPER  LOSS! Round Score: 2
+67 67 
+0 | SCISSORS  DRAW! Round Score: 6
+67 66 
+1 | PAPER  LOSS! Round Score: 2
+67 65 
+2 | ROCK  WIN! Round Score: 7
+65 67 
+-2 | SCISSORS  LOSS! Round Score: 3
+66 67 
+-1 | SCISSORS  WIN! Round Score: 9
+67 67 
+0 | SCISSORS  DRAW! Round Score: 6
+65 66 
+-1 | PAPER  WIN! Round Score: 8
+67 67 
+0 | SCISSORS  DRAW! Round Score: 6
+66 65 
+1 | ROCK  LOSS! Round Score: 1
+67 66 
+1 | PAPER  LOSS! Round Score: 2
+67 67 
+0 | SCISSORS  DRAW! Round Score: 6
+67 65 
+2 | ROCK  WIN! Round Score: 7
+67 65 
+2 | ROCK  WIN! Round Score: 7
+67 66 
+1 | PAPER  LOSS! Round Score: 2
+67 66 
+1 | PAPER  LOSS! Round Score: 2
+67 65 
+2 | ROCK  WIN! Round Score: 7
+65 66 
+-1 | PAPER  WIN! Round Score: 8
+67 66 
+1 | PAPER  LOSS! Round Score: 2
+67 66 
+1 | PAPER  LOSS! Round Score: 2
+67 65 
+2 | ROCK  WIN! Round Score: 7
+67 67 
+0 | SCISSORS  DRAW! Round Score: 6
+67 65 
+2 | ROCK  WIN! Round Score: 7
+65 65 
+0 | ROCK  DRAW! Round Score: 4
+67 67 
+0 | SCISSORS  DRAW! Round Score: 6
+67 66 
+1 | PAPER  LOSS! Round Score: 2
+67 67 
+0 | SCISSORS  DRAW! Round Score: 6
+67 67 
+0 | SCISSORS  DRAW! Round Score: 6
+67 67 
+0 | SCISSORS  DRAW! Round Score: 6
+65 67 
+-2 | SCISSORS  LOSS! Round Score: 3
+67 67 
+0 | SCISSORS  DRAW! Round Score: 6
+66 67 
+-1 | SCISSORS  WIN! Round Score: 9
+65 66 
+-1 | PAPER  WIN! Round Score: 8
+65 65 
+0 | ROCK  DRAW! Round Score: 4
+65 66 
+-1 | PAPER  WIN! Round Score: 8
+67 67 
+0 | SCISSORS  DRAW! Round Score: 6
+65 66 
+-1 | PAPER  WIN! Round Score: 8
+67 67 
+0 | SCISSORS  DRAW! Round Score: 6
+65 67 
+-2 | SCISSORS  LOSS! Round Score: 3
+67 66 
+1 | PAPER  LOSS! Round Score: 2
+67 66 
+1 | PAPER  LOSS! Round Score: 2
+67 66 
+1 | PAPER  LOSS! Round Score: 2
+65 65 
+0 | ROCK  DRAW! Round Score: 4
+67 65 
+2 | ROCK  WIN! Round Score: 7
+67 65 
+2 | ROCK  WIN! Round Score: 7
+67 66 
+1 | PAPER  LOSS! Round Score: 2
+65 65 
+0 | ROCK  DRAW! Round Score: 4
+65 66 
+-1 | PAPER  WIN! Round Score: 8
+67 65 
+2 | ROCK  WIN! Round Score: 7
+65 65 
+0 | ROCK  DRAW! Round Score: 4
+67 67 
+0 | SCISSORS  DRAW! Round Score: 6
+65 66 
+-1 | PAPER  WIN! Round Score: 8
+67 67 
+0 | SCISSORS  DRAW! Round Score: 6
+67 66 
+1 | PAPER  LOSS! Round Score: 2
+65 66 
+-1 | PAPER  WIN! Round Score: 8
+67 67 
+0 | SCISSORS  DRAW! Round Score: 6
+65 65 
+0 | ROCK  DRAW! Round Score: 4
+65 66 
+-1 | PAPER  WIN! Round Score: 8
+65 65 
+0 | ROCK  DRAW! Round Score: 4
+67 65 
+2 | ROCK  WIN! Round Score: 7
+67 67 
+0 | SCISSORS  DRAW! Round Score: 6
+65 65 
+0 | ROCK  DRAW! Round Score: 4
+66 67 
+-1 | SCISSORS  WIN! Round Score: 9
+67 67 
+0 | SCISSORS  DRAW! Round Score: 6
+67 66 
+1 | PAPER  LOSS! Round Score: 2
+67 65 
+2 | ROCK  WIN! Round Score: 7
+67 65 
+2 | ROCK  WIN! Round Score: 7
+67 67 
+0 | SCISSORS  DRAW! Round Score: 6
+67 65 
+2 | ROCK  WIN! Round Score: 7
+67 67 
+0 | SCISSORS  DRAW! Round Score: 6
+65 65 
+0 | ROCK  DRAW! Round Score: 4
+67 66 
+1 | PAPER  LOSS! Round Score: 2
+65 66 
+-1 | PAPER  WIN! Round Score: 8
+67 66 
+1 | PAPER  LOSS! Round Score: 2
+67 67 
+0 | SCISSORS  DRAW! Round Score: 6
+67 65 
+2 | ROCK  WIN! Round Score: 7
+66 65 
+1 | ROCK  LOSS! Round Score: 1
+66 67 
+-1 | SCISSORS  WIN! Round Score: 9
+67 67 
+0 | SCISSORS  DRAW! Round Score: 6
+67 65 
+2 | ROCK  WIN! Round Score: 7
+65 65 
+0 | ROCK  DRAW! Round Score: 4
+66 67 
+-1 | SCISSORS  WIN! Round Score: 9
+65 66 
+-1 | PAPER  WIN! Round Score: 8
+65 66 
+-1 | PAPER  WIN! Round Score: 8
+66 67 
+-1 | SCISSORS  WIN! Round Score: 9
+65 66 
+-1 | PAPER  WIN! Round Score: 8
+67 66 
+1 | PAPER  LOSS! Round Score: 2
+66 67 
+-1 | SCISSORS  WIN! Round Score: 9
+66 65 
+1 | ROCK  LOSS! Round Score: 1
+67 65 
+2 | ROCK  WIN! Round Score: 7
+67 65 
+2 | ROCK  WIN! Round Score: 7
+67 65 
+2 | ROCK  WIN! Round Score: 7
+65 65 
+0 | ROCK  DRAW! Round Score: 4
+65 67 
+-2 | SCISSORS  LOSS! Round Score: 3
+65 66 
+-1 | PAPER  WIN! Round Score: 8
+65 66 
+-1 | PAPER  WIN! Round Score: 8
+67 66 
+1 | PAPER  LOSS! Round Score: 2
+67 67 
+0 | SCISSORS  DRAW! Round Score: 6
+67 67 
+0 | SCISSORS  DRAW! Round Score: 6
+67 67 
+0 | SCISSORS  DRAW! Round Score: 6
+65 66 
+-1 | PAPER  WIN! Round Score: 8
+67 65 
+2 | ROCK  WIN! Round Score: 7
+65 66 
+-1 | PAPER  WIN! Round Score: 8
+65 65 
+0 | ROCK  DRAW! Round Score: 4
+67 65 
+2 | ROCK  WIN! Round Score: 7
+67 65 
+2 | ROCK  WIN! Round Score: 7
+65 65 
+0 | ROCK  DRAW! Round Score: 4
+65 66 
+-1 | PAPER  WIN! Round Score: 8
+65 65 
+0 | ROCK  DRAW! Round Score: 4
+65 65 
+0 | ROCK  DRAW! Round Score: 4
+65 66 
+-1 | PAPER  WIN! Round Score: 8
+67 66 
+1 | PAPER  LOSS! Round Score: 2
+65 66 
+-1 | PAPER  WIN! Round Score: 8
+65 66 
+-1 | PAPER  WIN! Round Score: 8
+65 65 
+0 | ROCK  DRAW! Round Score: 4
+67 65 
+2 | ROCK  WIN! Round Score: 7
+66 67 
+-1 | SCISSORS  WIN! Round Score: 9
+65 65 
+0 | ROCK  DRAW! Round Score: 4
+67 66 
+1 | PAPER  LOSS! Round Score: 2
+67 65 
+2 | ROCK  WIN! Round Score: 7
+67 67 
+0 | SCISSORS  DRAW! Round Score: 6
+67 67 
+0 | SCISSORS  DRAW! Round Score: 6
+67 67 
+0 | SCISSORS  DRAW! Round Score: 6
+67 67 
+0 | SCISSORS  DRAW! Round Score: 6
+67 66 
+1 | PAPER  LOSS! Round Score: 2
+67 65 
+2 | ROCK  WIN! Round Score: 7
+67 65 
+2 | ROCK  WIN! Round Score: 7
+65 65 
+0 | ROCK  DRAW! Round Score: 4
+65 66 
+-1 | PAPER  WIN! Round Score: 8
+65 65 
+0 | ROCK  DRAW! Round Score: 4
+67 67 
+0 | SCISSORS  DRAW! Round Score: 6
+67 65 
+2 | ROCK  WIN! Round Score: 7
+67 66 
+1 | PAPER  LOSS! Round Score: 2
+67 66 
+1 | PAPER  LOSS! Round Score: 2
+67 67 
+0 | SCISSORS  DRAW! Round Score: 6
+67 67 
+0 | SCISSORS  DRAW! Round Score: 6
+66 67 
+-1 | SCISSORS  WIN! Round Score: 9
+67 67 
+0 | SCISSORS  DRAW! Round Score: 6
+67 66 
+1 | PAPER  LOSS! Round Score: 2
+67 65 
+2 | ROCK  WIN! Round Score: 7
+67 66 
+1 | PAPER  LOSS! Round Score: 2
+65 65 
+0 | ROCK  DRAW! Round Score: 4
+65 66 
+-1 | PAPER  WIN! Round Score: 8
+67 65 
+2 | ROCK  WIN! Round Score: 7
+66 67 
+-1 | SCISSORS  WIN! Round Score: 9
+66 66 
+0 | PAPER  DRAW! Round Score: 5
+67 67 
+0 | SCISSORS  DRAW! Round Score: 6
+67 66 
+1 | PAPER  LOSS! Round Score: 2
+67 65 
+2 | ROCK  WIN! Round Score: 7
+65 66 
+-1 | PAPER  WIN! Round Score: 8
+67 66 
+1 | PAPER  LOSS! Round Score: 2
+66 67 
+-1 | SCISSORS  WIN! Round Score: 9
+65 67 
+-2 | SCISSORS  LOSS! Round Score: 3
+67 65 
+2 | ROCK  WIN! Round Score: 7
+67 67 
+0 | SCISSORS  DRAW! Round Score: 6
+67 66 
+1 | PAPER  LOSS! Round Score: 2
+67 65 
+2 | ROCK  WIN! Round Score: 7
+67 67 
+0 | SCISSORS  DRAW! Round Score: 6
+65 65 
+0 | ROCK  DRAW! Round Score: 4
+65 66 
+-1 | PAPER  WIN! Round Score: 8
+67 66 
+1 | PAPER  LOSS! Round Score: 2
+67 66 
+1 | PAPER  LOSS! Round Score: 2
+65 66 
+-1 | PAPER  WIN! Round Score: 8
+65 65 
+0 | ROCK  DRAW! Round Score: 4
+65 65 
+0 | ROCK  DRAW! Round Score: 4
+67 65 
+2 | ROCK  WIN! Round Score: 7
+67 65 
+2 | ROCK  WIN! Round Score: 7
+67 67 
+0 | SCISSORS  DRAW! Round Score: 6
+65 66 
+-1 | PAPER  WIN! Round Score: 8
+65 66 
+-1 | PAPER  WIN! Round Score: 8
+67 66 
+1 | PAPER  LOSS! Round Score: 2
+67 67 
+0 | SCISSORS  DRAW! Round Score: 6
+65 65 
+0 | ROCK  DRAW! Round Score: 4
+65 66 
+-1 | PAPER  WIN! Round Score: 8
+67 65 
+2 | ROCK  WIN! Round Score: 7
+67 65 
+2 | ROCK  WIN! Round Score: 7
+67 66 
+1 | PAPER  LOSS! Round Score: 2
+67 65 
+2 | ROCK  WIN! Round Score: 7
+67 67 
+0 | SCISSORS  DRAW! Round Score: 6
+67 65 
+2 | ROCK  WIN! Round Score: 7
+67 67 
+0 | SCISSORS  DRAW! Round Score: 6
+67 67 
+0 | SCISSORS  DRAW! Round Score: 6
+67 67 
+0 | SCISSORS  DRAW! Round Score: 6
+67 67 
+0 | SCISSORS  DRAW! Round Score: 6
+65 66 
+-1 | PAPER  WIN! Round Score: 8
+66 67 
+-1 | SCISSORS  WIN! Round Score: 9
+67 66 
+1 | PAPER  LOSS! Round Score: 2
+67 67 
+0 | SCISSORS  DRAW! Round Score: 6
+65 67 
+-2 | SCISSORS  LOSS! Round Score: 3
+67 65 
+2 | ROCK  WIN! Round Score: 7
+67 65 
+2 | ROCK  WIN! Round Score: 7
+65 65 
+0 | ROCK  DRAW! Round Score: 4
+65 67 
+-2 | SCISSORS  LOSS! Round Score: 3
+67 67 
+0 | SCISSORS  DRAW! Round Score: 6
+67 65 
+2 | ROCK  WIN! Round Score: 7
+67 67 
+0 | SCISSORS  DRAW! Round Score: 6
+65 65 
+0 | ROCK  DRAW! Round Score: 4
+66 67 
+-1 | SCISSORS  WIN! Round Score: 9
+66 67 
+-1 | SCISSORS  WIN! Round Score: 9
+65 65 
+0 | ROCK  DRAW! Round Score: 4
+67 65 
+2 | ROCK  WIN! Round Score: 7
+67 65 
+2 | ROCK  WIN! Round Score: 7
+66 67 
+-1 | SCISSORS  WIN! Round Score: 9
+66 67 
+-1 | SCISSORS  WIN! Round Score: 9
+66 67 
+-1 | SCISSORS  WIN! Round Score: 9
+67 67 
+0 | SCISSORS  DRAW! Round Score: 6
+67 65 
+2 | ROCK  WIN! Round Score: 7
+65 66 
+-1 | PAPER  WIN! Round Score: 8
+67 67 
+0 | SCISSORS  DRAW! Round Score: 6
+65 65 
+0 | ROCK  DRAW! Round Score: 4
+67 66 
+1 | PAPER  LOSS! Round Score: 2
+67 67 
+0 | SCISSORS  DRAW! Round Score: 6
+67 67 
+0 | SCISSORS  DRAW! Round Score: 6
+67 65 
+2 | ROCK  WIN! Round Score: 7
+67 65 
+2 | ROCK  WIN! Round Score: 7
+67 67 
+0 | SCISSORS  DRAW! Round Score: 6
+67 66 
+1 | PAPER  LOSS! Round Score: 2
+67 66 
+1 | PAPER  LOSS! Round Score: 2
+67 65 
+2 | ROCK  WIN! Round Score: 7
+67 65 
+2 | ROCK  WIN! Round Score: 7
+65 65 
+0 | ROCK  DRAW! Round Score: 4
+67 66 
+1 | PAPER  LOSS! Round Score: 2
+65 65 
+0 | ROCK  DRAW! Round Score: 4
+67 66 
+1 | PAPER  LOSS! Round Score: 2
+67 65 
+2 | ROCK  WIN! Round Score: 7
+66 65 
+1 | ROCK  LOSS! Round Score: 1
+66 67 
+-1 | SCISSORS  WIN! Round Score: 9
+67 65 
+2 | ROCK  WIN! Round Score: 7
+67 65 
+2 | ROCK  WIN! Round Score: 7
+66 65 
+1 | ROCK  LOSS! Round Score: 1
+67 67 
+0 | SCISSORS  DRAW! Round Score: 6
+67 66 
+1 | PAPER  LOSS! Round Score: 2
+65 65 
+0 | ROCK  DRAW! Round Score: 4
+67 67 
+0 | SCISSORS  DRAW! Round Score: 6
+67 67 
+0 | SCISSORS  DRAW! Round Score: 6
+67 67 
+0 | SCISSORS  DRAW! Round Score: 6
+67 66 
+1 | PAPER  LOSS! Round Score: 2
+67 65 
+2 | ROCK  WIN! Round Score: 7
+65 66 
+-1 | PAPER  WIN! Round Score: 8
+65 67 
+-2 | SCISSORS  LOSS! Round Score: 3
+67 67 
+0 | SCISSORS  DRAW! Round Score: 6
+66 67 
+-1 | SCISSORS  WIN! Round Score: 9
+67 67 
+0 | SCISSORS  DRAW! Round Score: 6
+67 65 
+2 | ROCK  WIN! Round Score: 7
+65 66 
+-1 | PAPER  WIN! Round Score: 8
+67 65 
+2 | ROCK  WIN! Round Score: 7
+67 65 
+2 | ROCK  WIN! Round Score: 7
+65 65 
+0 | ROCK  DRAW! Round Score: 4
+67 65 
+2 | ROCK  WIN! Round Score: 7
+67 67 
+0 | SCISSORS  DRAW! Round Score: 6
+65 65 
+0 | ROCK  DRAW! Round Score: 4
+67 67 
+0 | SCISSORS  DRAW! Round Score: 6
+67 66 
+1 | PAPER  LOSS! Round Score: 2
+67 66 
+1 | PAPER  LOSS! Round Score: 2
+67 66 
+1 | PAPER  LOSS! Round Score: 2
+67 67 
+0 | SCISSORS  DRAW! Round Score: 6
+65 65 
+0 | ROCK  DRAW! Round Score: 4
+67 66 
+1 | PAPER  LOSS! Round Score: 2
+67 65 
+2 | ROCK  WIN! Round Score: 7
+67 67 
+0 | SCISSORS  DRAW! Round Score: 6
+65 65 
+0 | ROCK  DRAW! Round Score: 4
+67 67 
+0 | SCISSORS  DRAW! Round Score: 6
+67 65 
+2 | ROCK  WIN! Round Score: 7
+67 65 
+2 | ROCK  WIN! Round Score: 7
+67 65 
+2 | ROCK  WIN! Round Score: 7
+65 66 
+-1 | PAPER  WIN! Round Score: 8
+67 67 
+0 | SCISSORS  DRAW! Round Score: 6
+65 66 
+-1 | PAPER  WIN! Round Score: 8
+67 67 
+0 | SCISSORS  DRAW! Round Score: 6
+67 66 
+1 | PAPER  LOSS! Round Score: 2
+67 67 
+0 | SCISSORS  DRAW! Round Score: 6
+65 66 
+-1 | PAPER  WIN! Round Score: 8
+67 65 
+2 | ROCK  WIN! Round Score: 7
+67 65 
+2 | ROCK  WIN! Round Score: 7
+67 65 
+2 | ROCK  WIN! Round Score: 7
+67 66 
+1 | PAPER  LOSS! Round Score: 2
+67 67 
+0 | SCISSORS  DRAW! Round Score: 6
+67 65 
+2 | ROCK  WIN! Round Score: 7
+67 66 
+1 | PAPER  LOSS! Round Score: 2
+67 65 
+2 | ROCK  WIN! Round Score: 7
+65 65 
+0 | ROCK  DRAW! Round Score: 4
+67 65 
+2 | ROCK  WIN! Round Score: 7
+67 66 
+1 | PAPER  LOSS! Round Score: 2
+67 65 
+2 | ROCK  WIN! Round Score: 7
+67 67 
+0 | SCISSORS  DRAW! Round Score: 6
+67 65 
+2 | ROCK  WIN! Round Score: 7
+66 67 
+-1 | SCISSORS  WIN! Round Score: 9
+67 65 
+2 | ROCK  WIN! Round Score: 7
+66 67 
+-1 | SCISSORS  WIN! Round Score: 9
+66 65 
+1 | ROCK  LOSS! Round Score: 1
+67 65 
+2 | ROCK  WIN! Round Score: 7
+67 65 
+2 | ROCK  WIN! Round Score: 7
+67 65 
+2 | ROCK  WIN! Round Score: 7
+66 65 
+1 | ROCK  LOSS! Round Score: 1
+65 66 
+-1 | PAPER  WIN! Round Score: 8
+65 66 
+-1 | PAPER  WIN! Round Score: 8
+65 65 
+0 | ROCK  DRAW! Round Score: 4
+66 67 
+-1 | SCISSORS  WIN! Round Score: 9
+67 65 
+2 | ROCK  WIN! Round Score: 7
+65 67 
+-2 | SCISSORS  LOSS! Round Score: 3
+67 66 
+1 | PAPER  LOSS! Round Score: 2
+67 65 
+2 | ROCK  WIN! Round Score: 7
+67 65 
+2 | ROCK  WIN! Round Score: 7
+67 66 
+1 | PAPER  LOSS! Round Score: 2
+65 66 
+-1 | PAPER  WIN! Round Score: 8
+65 67 
+-2 | SCISSORS  LOSS! Round Score: 3
+67 65 
+2 | ROCK  WIN! Round Score: 7
+65 66 
+-1 | PAPER  WIN! Round Score: 8
+67 67 
+0 | SCISSORS  DRAW! Round Score: 6
+67 65 
+2 | ROCK  WIN! Round Score: 7
+67 65 
+2 | ROCK  WIN! Round Score: 7
+67 66 
+1 | PAPER  LOSS! Round Score: 2
+67 66 
+1 | PAPER  LOSS! Round Score: 2
+65 67 
+-2 | SCISSORS  LOSS! Round Score: 3
+65 65 
+0 | ROCK  DRAW! Round Score: 4
+67 67 
+0 | SCISSORS  DRAW! Round Score: 6
+67 65 
+2 | ROCK  WIN! Round Score: 7
+67 67 
+0 | SCISSORS  DRAW! Round Score: 6
+66 66 
+0 | PAPER  DRAW! Round Score: 5
+65 66 
+-1 | PAPER  WIN! Round Score: 8
+67 67 
+0 | SCISSORS  DRAW! Round Score: 6
+65 66 
+-1 | PAPER  WIN! Round Score: 8
+67 67 
+0 | SCISSORS  DRAW! Round Score: 6
+65 65 
+0 | ROCK  DRAW! Round Score: 4
+67 66 
+1 | PAPER  LOSS! Round Score: 2
+67 66 
+1 | PAPER  LOSS! Round Score: 2
+67 65 
+2 | ROCK  WIN! Round Score: 7
+65 66 
+-1 | PAPER  WIN! Round Score: 8
+67 65 
+2 | ROCK  WIN! Round Score: 7
+67 65 
+2 | ROCK  WIN! Round Score: 7
+66 65 
+1 | ROCK  LOSS! Round Score: 1
+67 67 
+0 | SCISSORS  DRAW! Round Score: 6
+67 65 
+2 | ROCK  WIN! Round Score: 7
+67 66 
+1 | PAPER  LOSS! Round Score: 2
+67 67 
+0 | SCISSORS  DRAW! Round Score: 6
+67 67 
+0 | SCISSORS  DRAW! Round Score: 6
+67 66 
+1 | PAPER  LOSS! Round Score: 2
+67 66 
+1 | PAPER  LOSS! Round Score: 2
+67 66 
+1 | PAPER  LOSS! Round Score: 2
+67 65 
+2 | ROCK  WIN! Round Score: 7
+66 67 
+-1 | SCISSORS  WIN! Round Score: 9
+67 65 
+2 | ROCK  WIN! Round Score: 7
+67 65 
+2 | ROCK  WIN! Round Score: 7
+67 66 
+1 | PAPER  LOSS! Round Score: 2
+67 66 
+1 | PAPER  LOSS! Round Score: 2
+67 67 
+0 | SCISSORS  DRAW! Round Score: 6
+66 67 
+-1 | SCISSORS  WIN! Round Score: 9
+67 65 
+2 | ROCK  WIN! Round Score: 7
+67 66 
+1 | PAPER  LOSS! Round Score: 2
+66 67 
+-1 | SCISSORS  WIN! Round Score: 9
+67 67 
+0 | SCISSORS  DRAW! Round Score: 6
+65 66 
+-1 | PAPER  WIN! Round Score: 8
+67 65 
+2 | ROCK  WIN! Round Score: 7
+67 65 
+2 | ROCK  WIN! Round Score: 7
+65 66 
+-1 | PAPER  WIN! Round Score: 8
+67 66 
+1 | PAPER  LOSS! Round Score: 2
+67 67 
+0 | SCISSORS  DRAW! Round Score: 6
+67 65 
+2 | ROCK  WIN! Round Score: 7
+65 66 
+-1 | PAPER  WIN! Round Score: 8
+65 66 
+-1 | PAPER  WIN! Round Score: 8
+67 67 
+0 | SCISSORS  DRAW! Round Score: 6
+67 67 
+0 | SCISSORS  DRAW! Round Score: 6
+67 67 
+0 | SCISSORS  DRAW! Round Score: 6
+65 65 
+0 | ROCK  DRAW! Round Score: 4
+67 65 
+2 | ROCK  WIN! Round Score: 7
+67 67 
+0 | SCISSORS  DRAW! Round Score: 6
+67 67 
+0 | SCISSORS  DRAW! Round Score: 6
+67 67 
+0 | SCISSORS  DRAW! Round Score: 6
+65 66 
+-1 | PAPER  WIN! Round Score: 8
+65 65 
+0 | ROCK  DRAW! Round Score: 4
+67 65 
+2 | ROCK  WIN! Round Score: 7
+67 67 
+0 | SCISSORS  DRAW! Round Score: 6
+67 65 
+2 | ROCK  WIN! Round Score: 7
+67 65 
+2 | ROCK  WIN! Round Score: 7
+67 66 
+1 | PAPER  LOSS! Round Score: 2
+65 66 
+-1 | PAPER  WIN! Round Score: 8
+67 65 
+2 | ROCK  WIN! Round Score: 7
+67 66 
+1 | PAPER  LOSS! Round Score: 2
+67 67 
+0 | SCISSORS  DRAW! Round Score: 6
+67 66 
+1 | PAPER  LOSS! Round Score: 2
+65 65 
+0 | ROCK  DRAW! Round Score: 4
+67 65 
+2 | ROCK  WIN! Round Score: 7
+67 65 
+2 | ROCK  WIN! Round Score: 7
+67 67 
+0 | SCISSORS  DRAW! Round Score: 6
+65 65 
+0 | ROCK  DRAW! Round Score: 4
+66 65 
+1 | ROCK  LOSS! Round Score: 1
+67 66 
+1 | PAPER  LOSS! Round Score: 2
+65 65 
+0 | ROCK  DRAW! Round Score: 4
+67 66 
+1 | PAPER  LOSS! Round Score: 2
+67 66 
+1 | PAPER  LOSS! Round Score: 2
+67 65 
+2 | ROCK  WIN! Round Score: 7
+67 67 
+0 | SCISSORS  DRAW! Round Score: 6
+66 65 
+1 | ROCK  LOSS! Round Score: 1
+67 65 
+2 | ROCK  WIN! Round Score: 7
+67 67 
+0 | SCISSORS  DRAW! Round Score: 6
+65 66 
+-1 | PAPER  WIN! Round Score: 8
+67 67 
+0 | SCISSORS  DRAW! Round Score: 6
+67 65 
+2 | ROCK  WIN! Round Score: 7
+65 65 
+0 | ROCK  DRAW! Round Score: 4
+67 66 
+1 | PAPER  LOSS! Round Score: 2
+65 65 
+0 | ROCK  DRAW! Round Score: 4
+67 67 
+0 | SCISSORS  DRAW! Round Score: 6
+65 65 
+0 | ROCK  DRAW! Round Score: 4
+67 65 
+2 | ROCK  WIN! Round Score: 7
+67 66 
+1 | PAPER  LOSS! Round Score: 2
+67 65 
+2 | ROCK  WIN! Round Score: 7
+67 67 
+0 | SCISSORS  DRAW! Round Score: 6
+67 65 
+2 | ROCK  WIN! Round Score: 7
+67 65 
+2 | ROCK  WIN! Round Score: 7
+67 66 
+1 | PAPER  LOSS! Round Score: 2
+65 65 
+0 | ROCK  DRAW! Round Score: 4
+67 66 
+1 | PAPER  LOSS! Round Score: 2
+65 66 
+-1 | PAPER  WIN! Round Score: 8
+67 67 
+0 | SCISSORS  DRAW! Round Score: 6
+67 65 
+2 | ROCK  WIN! Round Score: 7
+67 65 
+2 | ROCK  WIN! Round Score: 7
+65 65 
+0 | ROCK  DRAW! Round Score: 4
+65 67 
+-2 | SCISSORS  LOSS! Round Score: 3
+67 65 
+2 | ROCK  WIN! Round Score: 7
+67 65 
+2 | ROCK  WIN! Round Score: 7
+67 66 
+1 | PAPER  LOSS! Round Score: 2
+66 67 
+-1 | SCISSORS  WIN! Round Score: 9
+65 65 
+0 | ROCK  DRAW! Round Score: 4
+65 65 
+0 | ROCK  DRAW! Round Score: 4
+67 65 
+2 | ROCK  WIN! Round Score: 7
+66 67 
+-1 | SCISSORS  WIN! Round Score: 9
+67 67 
+0 | SCISSORS  DRAW! Round Score: 6
+65 66 
+-1 | PAPER  WIN! Round Score: 8
+67 66 
+1 | PAPER  LOSS! Round Score: 2
+67 67 
+0 | SCISSORS  DRAW! Round Score: 6
+67 65 
+2 | ROCK  WIN! Round Score: 7
+65 67 
+-2 | SCISSORS  LOSS! Round Score: 3
+67 66 
+1 | PAPER  LOSS! Round Score: 2
+65 65 
+0 | ROCK  DRAW! Round Score: 4
+67 66 
+1 | PAPER  LOSS! Round Score: 2
+67 67 
+0 | SCISSORS  DRAW! Round Score: 6
+67 67 
+0 | SCISSORS  DRAW! Round Score: 6
+67 65 
+2 | ROCK  WIN! Round Score: 7
+67 66 
+1 | PAPER  LOSS! Round Score: 2
+67 65 
+2 | ROCK  WIN! Round Score: 7
+67 66 
+1 | PAPER  LOSS! Round Score: 2
+67 66 
+1 | PAPER  LOSS! Round Score: 2
+67 65 
+2 | ROCK  WIN! Round Score: 7
+65 66 
+-1 | PAPER  WIN! Round Score: 8
+66 65 
+1 | ROCK  LOSS! Round Score: 1
+67 65 
+2 | ROCK  WIN! Round Score: 7
+65 65 
+0 | ROCK  DRAW! Round Score: 4
+65 66 
+-1 | PAPER  WIN! Round Score: 8
+67 66 
+1 | PAPER  LOSS! Round Score: 2
+67 67 
+0 | SCISSORS  DRAW! Round Score: 6
+67 66 
+1 | PAPER  LOSS! Round Score: 2
+67 65 
+2 | ROCK  WIN! Round Score: 7
+65 66 
+-1 | PAPER  WIN! Round Score: 8
+67 67 
+0 | SCISSORS  DRAW! Round Score: 6
+67 65 
+2 | ROCK  WIN! Round Score: 7
+67 65 
+2 | ROCK  WIN! Round Score: 7
+65 67 
+-2 | SCISSORS  LOSS! Round Score: 3
+67 66 
+1 | PAPER  LOSS! Round Score: 2
+67 67 
+0 | SCISSORS  DRAW! Round Score: 6
+65 65 
+0 | ROCK  DRAW! Round Score: 4
+67 65 
+2 | ROCK  WIN! Round Score: 7
+67 67 
+0 | SCISSORS  DRAW! Round Score: 6
+65 66 
+-1 | PAPER  WIN! Round Score: 8
+65 65 
+0 | ROCK  DRAW! Round Score: 4
+66 65 
+1 | ROCK  LOSS! Round Score: 1
+67 67 
+0 | SCISSORS  DRAW! Round Score: 6
+66 67 
+-1 | SCISSORS  WIN! Round Score: 9
+67 65 
+2 | ROCK  WIN! Round Score: 7
+65 67 
+-2 | SCISSORS  LOSS! Round Score: 3
+67 67 
+0 | SCISSORS  DRAW! Round Score: 6
+65 65 
+0 | ROCK  DRAW! Round Score: 4
+65 66 
+-1 | PAPER  WIN! Round Score: 8
+67 65 
+2 | ROCK  WIN! Round Score: 7
+65 65 
+0 | ROCK  DRAW! Round Score: 4
+66 67 
+-1 | SCISSORS  WIN! Round Score: 9
+67 65 
+2 | ROCK  WIN! Round Score: 7
+67 66 
+1 | PAPER  LOSS! Round Score: 2
+67 67 
+0 | SCISSORS  DRAW! Round Score: 6
+67 66 
+1 | PAPER  LOSS! Round Score: 2
+67 66 
+1 | PAPER  LOSS! Round Score: 2
+67 67 
+0 | SCISSORS  DRAW! Round Score: 6
+67 65 
+2 | ROCK  WIN! Round Score: 7
+66 65 
+1 | ROCK  LOSS! Round Score: 1
+67 66 
+1 | PAPER  LOSS! Round Score: 2
+66 66 
+0 | PAPER  DRAW! Round Score: 5
+67 67 
+0 | SCISSORS  DRAW! Round Score: 6
+65 66 
+-1 | PAPER  WIN! Round Score: 8
+65 66 
+-1 | PAPER  WIN! Round Score: 8
+67 66 
+1 | PAPER  LOSS! Round Score: 2
+67 67 
+0 | SCISSORS  DRAW! Round Score: 6
+65 65 
+0 | ROCK  DRAW! Round Score: 4
+67 67 
+0 | SCISSORS  DRAW! Round Score: 6
+67 66 
+1 | PAPER  LOSS! Round Score: 2
+66 67 
+-1 | SCISSORS  WIN! Round Score: 9
+67 65 
+2 | ROCK  WIN! Round Score: 7
+65 65 
+0 | ROCK  DRAW! Round Score: 4
+67 65 
+2 | ROCK  WIN! Round Score: 7
+67 65 
+2 | ROCK  WIN! Round Score: 7
+67 66 
+1 | PAPER  LOSS! Round Score: 2
+67 66 
+1 | PAPER  LOSS! Round Score: 2
+67 67 
+0 | SCISSORS  DRAW! Round Score: 6
+65 66 
+-1 | PAPER  WIN! Round Score: 8
+67 67 
+0 | SCISSORS  DRAW! Round Score: 6
+65 65 
+0 | ROCK  DRAW! Round Score: 4
+65 66 
+-1 | PAPER  WIN! Round Score: 8
+67 65 
+2 | ROCK  WIN! Round Score: 7
+67 66 
+1 | PAPER  LOSS! Round Score: 2
+67 67 
+0 | SCISSORS  DRAW! Round Score: 6
+67 65 
+2 | ROCK  WIN! Round Score: 7
+65 65 
+0 | ROCK  DRAW! Round Score: 4
+66 67 
+-1 | SCISSORS  WIN! Round Score: 9
+67 67 
+0 | SCISSORS  DRAW! Round Score: 6
+65 65 
+0 | ROCK  DRAW! Round Score: 4
+67 65 
+2 | ROCK  WIN! Round Score: 7
+67 65 
+2 | ROCK  WIN! Round Score: 7
+67 65 
+2 | ROCK  WIN! Round Score: 7
+66 67 
+-1 | SCISSORS  WIN! Round Score: 9
+67 67 
+0 | SCISSORS  DRAW! Round Score: 6
+67 66 
+1 | PAPER  LOSS! Round Score: 2
+66 67 
+-1 | SCISSORS  WIN! Round Score: 9
+65 65 
+0 | ROCK  DRAW! Round Score: 4
+67 67 
+0 | SCISSORS  DRAW! Round Score: 6
+67 66 
+1 | PAPER  LOSS! Round Score: 2
+65 65 
+0 | ROCK  DRAW! Round Score: 4
+67 65 
+2 | ROCK  WIN! Round Score: 7
+66 67 
+-1 | SCISSORS  WIN! Round Score: 9
+67 66 
+1 | PAPER  LOSS! Round Score: 2
+67 65 
+2 | ROCK  WIN! Round Score: 7
+67 67 
+0 | SCISSORS  DRAW! Round Score: 6
+67 67 
+0 | SCISSORS  DRAW! Round Score: 6
+67 67 
+0 | SCISSORS  DRAW! Round Score: 6
+67 65 
+2 | ROCK  WIN! Round Score: 7
+67 66 
+1 | PAPER  LOSS! Round Score: 2
+66 65 
+1 | ROCK  LOSS! Round Score: 1
+65 65 
+0 | ROCK  DRAW! Round Score: 4
+66 67 
+-1 | SCISSORS  WIN! Round Score: 9
+67 65 
+2 | ROCK  WIN! Round Score: 7
+67 66 
+1 | PAPER  LOSS! Round Score: 2
+67 67 
+0 | SCISSORS  DRAW! Round Score: 6
+67 65 
+2 | ROCK  WIN! Round Score: 7
+67 67 
+0 | SCISSORS  DRAW! Round Score: 6
+67 67 
+0 | SCISSORS  DRAW! Round Score: 6
+67 67 
+0 | SCISSORS  DRAW! Round Score: 6
+67 66 
+1 | PAPER  LOSS! Round Score: 2
+65 65 
+0 | ROCK  DRAW! Round Score: 4
+67 65 
+2 | ROCK  WIN! Round Score: 7
+67 67 
+0 | SCISSORS  DRAW! Round Score: 6
+65 65 
+0 | ROCK  DRAW! Round Score: 4
+67 65 
+2 | ROCK  WIN! Round Score: 7
+67 67 
+0 | SCISSORS  DRAW! Round Score: 6
+66 65 
+1 | ROCK  LOSS! Round Score: 1
+67 67 
+0 | SCISSORS  DRAW! Round Score: 6
+66 67 
+-1 | SCISSORS  WIN! Round Score: 9
+65 66 
+-1 | PAPER  WIN! Round Score: 8
+65 65 
+0 | ROCK  DRAW! Round Score: 4
+67 67 
+0 | SCISSORS  DRAW! Round Score: 6
+67 67 
+0 | SCISSORS  DRAW! Round Score: 6
+67 66 
+1 | PAPER  LOSS! Round Score: 2
+67 67 
+0 | SCISSORS  DRAW! Round Score: 6
+67 66 
+1 | PAPER  LOSS! Round Score: 2
+67 67 
+0 | SCISSORS  DRAW! Round Score: 6
+65 66 
+-1 | PAPER  WIN! Round Score: 8
+66 67 
+-1 | SCISSORS  WIN! Round Score: 9
+65 66 
+-1 | PAPER  WIN! Round Score: 8
+67 65 
+2 | ROCK  WIN! Round Score: 7
+65 65 
+0 | ROCK  DRAW! Round Score: 4
+65 65 
+0 | ROCK  DRAW! Round Score: 4
+65 65 
+0 | ROCK  DRAW! Round Score: 4
+66 67 
+-1 | SCISSORS  WIN! Round Score: 9
+67 67 
+0 | SCISSORS  DRAW! Round Score: 6
+66 66 
+0 | PAPER  DRAW! Round Score: 5
+67 66 
+1 | PAPER  LOSS! Round Score: 2
+65 66 
+-1 | PAPER  WIN! Round Score: 8
+65 66 
+-1 | PAPER  WIN! Round Score: 8
+67 67 
+0 | SCISSORS  DRAW! Round Score: 6
+65 66 
+-1 | PAPER  WIN! Round Score: 8
+67 67 
+0 | SCISSORS  DRAW! Round Score: 6
+67 67 
+0 | SCISSORS  DRAW! Round Score: 6
+65 66 
+-1 | PAPER  WIN! Round Score: 8
+67 67 
+0 | SCISSORS  DRAW! Round Score: 6
+67 67 
+0 | SCISSORS  DRAW! Round Score: 6
+67 67 
+0 | SCISSORS  DRAW! Round Score: 6
+65 66 
+-1 | PAPER  WIN! Round Score: 8
+67 67 
+0 | SCISSORS  DRAW! Round Score: 6
+67 67 
+0 | SCISSORS  DRAW! Round Score: 6
+67 67 
+0 | SCISSORS  DRAW! Round Score: 6
+67 67 
+0 | SCISSORS  DRAW! Round Score: 6
+65 66 
+-1 | PAPER  WIN! Round Score: 8
+67 66 
+1 | PAPER  LOSS! Round Score: 2
+65 66 
+-1 | PAPER  WIN! Round Score: 8
+67 66 
+1 | PAPER  LOSS! Round Score: 2
+67 65 
+2 | ROCK  WIN! Round Score: 7
+67 65 
+2 | ROCK  WIN! Round Score: 7
+67 67 
+0 | SCISSORS  DRAW! Round Score: 6
+67 65 
+2 | ROCK  WIN! Round Score: 7
+67 67 
+0 | SCISSORS  DRAW! Round Score: 6
+67 66 
+1 | PAPER  LOSS! Round Score: 2
+65 65 
+0 | ROCK  DRAW! Round Score: 4
+67 67 
+0 | SCISSORS  DRAW! Round Score: 6
+66 65 
+1 | ROCK  LOSS! Round Score: 1
+67 67 
+0 | SCISSORS  DRAW! Round Score: 6
+65 65 
+0 | ROCK  DRAW! Round Score: 4
+67 67 
+0 | SCISSORS  DRAW! Round Score: 6
+67 67 
+0 | SCISSORS  DRAW! Round Score: 6
+67 66 
+1 | PAPER  LOSS! Round Score: 2
+67 67 
+0 | SCISSORS  DRAW! Round Score: 6
+67 66 
+1 | PAPER  LOSS! Round Score: 2
+67 65 
+2 | ROCK  WIN! Round Score: 7
+67 66 
+1 | PAPER  LOSS! Round Score: 2
+66 65 
+1 | ROCK  LOSS! Round Score: 1
+67 67 
+0 | SCISSORS  DRAW! Round Score: 6
+67 65 
+2 | ROCK  WIN! Round Score: 7
+67 66 
+1 | PAPER  LOSS! Round Score: 2
+65 66 
+-1 | PAPER  WIN! Round Score: 8
+67 65 
+2 | ROCK  WIN! Round Score: 7
+67 67 
+0 | SCISSORS  DRAW! Round Score: 6
+67 65 
+2 | ROCK  WIN! Round Score: 7
+67 67 
+0 | SCISSORS  DRAW! Round Score: 6
+67 65 
+2 | ROCK  WIN! Round Score: 7
+65 67 
+-2 | SCISSORS  LOSS! Round Score: 3
+67 67 
+0 | SCISSORS  DRAW! Round Score: 6
+67 65 
+2 | ROCK  WIN! Round Score: 7
+67 65 
+2 | ROCK  WIN! Round Score: 7
+66 67 
+-1 | SCISSORS  WIN! Round Score: 9
+67 67 
+0 | SCISSORS  DRAW! Round Score: 6
+67 65 
+2 | ROCK  WIN! Round Score: 7
+65 65 
+0 | ROCK  DRAW! Round Score: 4
+67 66 
+1 | PAPER  LOSS! Round Score: 2
+65 66 
+-1 | PAPER  WIN! Round Score: 8
+67 65 
+2 | ROCK  WIN! Round Score: 7
+67 67 
+0 | SCISSORS  DRAW! Round Score: 6
+67 67 
+0 | SCISSORS  DRAW! Round Score: 6
+65 66 
+-1 | PAPER  WIN! Round Score: 8
+65 65 
+0 | ROCK  DRAW! Round Score: 4
+66 66 
+0 | PAPER  DRAW! Round Score: 5
+67 66 
+1 | PAPER  LOSS! Round Score: 2
+67 66 
+1 | PAPER  LOSS! Round Score: 2
+67 66 
+1 | PAPER  LOSS! Round Score: 2
+67 65 
+2 | ROCK  WIN! Round Score: 7
+65 65 
+0 | ROCK  DRAW! Round Score: 4
+67 67 
+0 | SCISSORS  DRAW! Round Score: 6
+67 66 
+1 | PAPER  LOSS! Round Score: 2
+67 67 
+0 | SCISSORS  DRAW! Round Score: 6
+67 65 
+2 | ROCK  WIN! Round Score: 7
+67 67 
+0 | SCISSORS  DRAW! Round Score: 6
+67 67 
+0 | SCISSORS  DRAW! Round Score: 6
+67 66 
+1 | PAPER  LOSS! Round Score: 2
+66 65 
+1 | ROCK  LOSS! Round Score: 1
+67 65 
+2 | ROCK  WIN! Round Score: 7
+67 67 
+0 | SCISSORS  DRAW! Round Score: 6
+67 65 
+2 | ROCK  WIN! Round Score: 7
+67 65 
+2 | ROCK  WIN! Round Score: 7
+67 66 
+1 | PAPER  LOSS! Round Score: 2
+65 65 
+0 | ROCK  DRAW! Round Score: 4
+66 67 
+-1 | SCISSORS  WIN! Round Score: 9
+65 65 
+0 | ROCK  DRAW! Round Score: 4
+67 65 
+2 | ROCK  WIN! Round Score: 7
+67 67 
+0 | SCISSORS  DRAW! Round Score: 6
+66 67 
+-1 | SCISSORS  WIN! Round Score: 9
+65 66 
+-1 | PAPER  WIN! Round Score: 8
+67 66 
+1 | PAPER  LOSS! Round Score: 2
+66 67 
+-1 | SCISSORS  WIN! Round Score: 9
+67 65 
+2 | ROCK  WIN! Round Score: 7
+65 67 
+-2 | SCISSORS  LOSS! Round Score: 3
+65 65 
+0 | ROCK  DRAW! Round Score: 4
+67 67 
+0 | SCISSORS  DRAW! Round Score: 6
+67 67 
+0 | SCISSORS  DRAW! Round Score: 6
+67 65 
+2 | ROCK  WIN! Round Score: 7
+65 66 
+-1 | PAPER  WIN! Round Score: 8
+66 66 
+0 | PAPER  DRAW! Round Score: 5
+67 65 
+2 | ROCK  WIN! Round Score: 7
+67 67 
+0 | SCISSORS  DRAW! Round Score: 6
+66 66 
+0 | PAPER  DRAW! Round Score: 5
+65 66 
+-1 | PAPER  WIN! Round Score: 8
+65 66 
+-1 | PAPER  WIN! Round Score: 8
+67 65 
+2 | ROCK  WIN! Round Score: 7
+65 65 
+0 | ROCK  DRAW! Round Score: 4
+67 66 
+1 | PAPER  LOSS! Round Score: 2
+67 65 
+2 | ROCK  WIN! Round Score: 7
+67 65 
+2 | ROCK  WIN! Round Score: 7
+67 67 
+0 | SCISSORS  DRAW! Round Score: 6
+65 65 
+0 | ROCK  DRAW! Round Score: 4
+65 65 
+0 | ROCK  DRAW! Round Score: 4
+65 65 
+0 | ROCK  DRAW! Round Score: 4
+66 67 
+-1 | SCISSORS  WIN! Round Score: 9
+67 66 
+1 | PAPER  LOSS! Round Score: 2
+67 67 
+0 | SCISSORS  DRAW! Round Score: 6
+67 65 
+2 | ROCK  WIN! Round Score: 7
+65 65 
+0 | ROCK  DRAW! Round Score: 4
+66 67 
+-1 | SCISSORS  WIN! Round Score: 9
+67 67 
+0 | SCISSORS  DRAW! Round Score: 6
+67 67 
+0 | SCISSORS  DRAW! Round Score: 6
+67 65 
+2 | ROCK  WIN! Round Score: 7
+67 65 
+2 | ROCK  WIN! Round Score: 7
+67 65 
+2 | ROCK  WIN! Round Score: 7
+67 65 
+2 | ROCK  WIN! Round Score: 7
+67 67 
+0 | SCISSORS  DRAW! Round Score: 6
+67 66 
+1 | PAPER  LOSS! Round Score: 2
+67 67 
+0 | SCISSORS  DRAW! Round Score: 6
+67 67 
+0 | SCISSORS  DRAW! Round Score: 6
+67 67 
+0 | SCISSORS  DRAW! Round Score: 6
+65 66 
+-1 | PAPER  WIN! Round Score: 8
+67 67 
+0 | SCISSORS  DRAW! Round Score: 6
+67 65 
+2 | ROCK  WIN! Round Score: 7
+67 66 
+1 | PAPER  LOSS! Round Score: 2
+67 65 
+2 | ROCK  WIN! Round Score: 7
+66 66 
+0 | PAPER  DRAW! Round Score: 5
+65 66 
+-1 | PAPER  WIN! Round Score: 8
+67 67 
+0 | SCISSORS  DRAW! Round Score: 6
+67 65 
+2 | ROCK  WIN! Round Score: 7
+67 67 
+0 | SCISSORS  DRAW! Round Score: 6
+65 65 
+0 | ROCK  DRAW! Round Score: 4
+65 65 
+0 | ROCK  DRAW! Round Score: 4
+67 66 
+1 | PAPER  LOSS! Round Score: 2
+67 66 
+1 | PAPER  LOSS! Round Score: 2
+67 65 
+2 | ROCK  WIN! Round Score: 7
+67 67 
+0 | SCISSORS  DRAW! Round Score: 6
+67 67 
+0 | SCISSORS  DRAW! Round Score: 6
+67 67 
+0 | SCISSORS  DRAW! Round Score: 6
+67 65 
+2 | ROCK  WIN! Round Score: 7
+67 67 
+0 | SCISSORS  DRAW! Round Score: 6
+67 65 
+2 | ROCK  WIN! Round Score: 7
+67 66 
+1 | PAPER  LOSS! Round Score: 2
+67 65 
+2 | ROCK  WIN! Round Score: 7
+67 65 
+2 | ROCK  WIN! Round Score: 7
+67 66 
+1 | PAPER  LOSS! Round Score: 2
+67 66 
+1 | PAPER  LOSS! Round Score: 2
+66 67 
+-1 | SCISSORS  WIN! Round Score: 9
+67 67 
+0 | SCISSORS  DRAW! Round Score: 6
+67 67 
+0 | SCISSORS  DRAW! Round Score: 6
+66 67 
+-1 | SCISSORS  WIN! Round Score: 9
+67 66 
+1 | PAPER  LOSS! Round Score: 2
+67 67 
+0 | SCISSORS  DRAW! Round Score: 6
+67 66 
+1 | PAPER  LOSS! Round Score: 2
+66 67 
+-1 | SCISSORS  WIN! Round Score: 9
+67 65 
+2 | ROCK  WIN! Round Score: 7
+67 67 
+0 | SCISSORS  DRAW! Round Score: 6
+67 66 
+1 | PAPER  LOSS! Round Score: 2
+67 67 
+0 | SCISSORS  DRAW! Round Score: 6
+65 66 
+-1 | PAPER  WIN! Round Score: 8
+67 67 
+0 | SCISSORS  DRAW! Round Score: 6
+66 67 
+-1 | SCISSORS  WIN! Round Score: 9
+67 67 
+0 | SCISSORS  DRAW! Round Score: 6
+67 65 
+2 | ROCK  WIN! Round Score: 7
+67 65 
+2 | ROCK  WIN! Round Score: 7
+65 67 
+-2 | SCISSORS  LOSS! Round Score: 3
+67 67 
+0 | SCISSORS  DRAW! Round Score: 6
+67 65 
+2 | ROCK  WIN! Round Score: 7
+65 66 
+-1 | PAPER  WIN! Round Score: 8
+65 67 
+-2 | SCISSORS  LOSS! Round Score: 3
+65 65 
+0 | ROCK  DRAW! Round Score: 4
+67 66 
+1 | PAPER  LOSS! Round Score: 2
+67 65 
+2 | ROCK  WIN! Round Score: 7
+67 67 
+0 | SCISSORS  DRAW! Round Score: 6
+67 65 
+2 | ROCK  WIN! Round Score: 7
+67 65 
+2 | ROCK  WIN! Round Score: 7
+67 66 
+1 | PAPER  LOSS! Round Score: 2
+67 65 
+2 | ROCK  WIN! Round Score: 7
+67 67 
+0 | SCISSORS  DRAW! Round Score: 6
+67 65 
+2 | ROCK  WIN! Round Score: 7
+67 66 
+1 | PAPER  LOSS! Round Score: 2
+67 66 
+1 | PAPER  LOSS! Round Score: 2
+67 67 
+0 | SCISSORS  DRAW! Round Score: 6
+67 66 
+1 | PAPER  LOSS! Round Score: 2
+67 66 
+1 | PAPER  LOSS! Round Score: 2
+67 66 
+1 | PAPER  LOSS! Round Score: 2
+65 67 
+-2 | SCISSORS  LOSS! Round Score: 3
+65 66 
+-1 | PAPER  WIN! Round Score: 8
+67 67 
+0 | SCISSORS  DRAW! Round Score: 6
+67 66 
+1 | PAPER  LOSS! Round Score: 2
+67 67 
+0 | SCISSORS  DRAW! Round Score: 6
+67 65 
+2 | ROCK  WIN! Round Score: 7
+65 65 
+0 | ROCK  DRAW! Round Score: 4
+67 67 
+0 | SCISSORS  DRAW! Round Score: 6
+67 67 
+0 | SCISSORS  DRAW! Round Score: 6
+65 66 
+-1 | PAPER  WIN! Round Score: 8
+67 67 
+0 | SCISSORS  DRAW! Round Score: 6
+67 65 
+2 | ROCK  WIN! Round Score: 7
+67 65 
+2 | ROCK  WIN! Round Score: 7
+67 65 
+2 | ROCK  WIN! Round Score: 7
+67 67 
+0 | SCISSORS  DRAW! Round Score: 6
+67 65 
+2 | ROCK  WIN! Round Score: 7
+67 67 
+0 | SCISSORS  DRAW! Round Score: 6
+67 66 
+1 | PAPER  LOSS! Round Score: 2
+65 67 
+-2 | SCISSORS  LOSS! Round Score: 3
+67 67 
+0 | SCISSORS  DRAW! Round Score: 6
+67 66 
+1 | PAPER  LOSS! Round Score: 2
+67 67 
+0 | SCISSORS  DRAW! Round Score: 6
+67 65 
+2 | ROCK  WIN! Round Score: 7
+67 66 
+1 | PAPER  LOSS! Round Score: 2
+67 66 
+1 | PAPER  LOSS! Round Score: 2
+67 65 
+2 | ROCK  WIN! Round Score: 7
+67 65 
+2 | ROCK  WIN! Round Score: 7
+67 67 
+0 | SCISSORS  DRAW! Round Score: 6
+65 66 
+-1 | PAPER  WIN! Round Score: 8
+67 66 
+1 | PAPER  LOSS! Round Score: 2
+66 67 
+-1 | SCISSORS  WIN! Round Score: 9
+65 66 
+-1 | PAPER  WIN! Round Score: 8
+67 66 
+1 | PAPER  LOSS! Round Score: 2
+67 65 
+2 | ROCK  WIN! Round Score: 7
+67 67 
+0 | SCISSORS  DRAW! Round Score: 6
+67 65 
+2 | ROCK  WIN! Round Score: 7
+67 66 
+1 | PAPER  LOSS! Round Score: 2
+67 67 
+0 | SCISSORS  DRAW! Round Score: 6
+65 66 
+-1 | PAPER  WIN! Round Score: 8
+65 65 
+0 | ROCK  DRAW! Round Score: 4
+67 67 
+0 | SCISSORS  DRAW! Round Score: 6
+66 66 
+0 | PAPER  DRAW! Round Score: 5
+67 66 
+1 | PAPER  LOSS! Round Score: 2
+65 65 
+0 | ROCK  DRAW! Round Score: 4
+67 66 
+1 | PAPER  LOSS! Round Score: 2
+67 67 
+0 | SCISSORS  DRAW! Round Score: 6
+66 67 
+-1 | SCISSORS  WIN! Round Score: 9
+67 66 
+1 | PAPER  LOSS! Round Score: 2
+67 67 
+0 | SCISSORS  DRAW! Round Score: 6
+67 67 
+0 | SCISSORS  DRAW! Round Score: 6
+66 67 
+-1 | SCISSORS  WIN! Round Score: 9
+67 65 
+2 | ROCK  WIN! Round Score: 7
+65 66 
+-1 | PAPER  WIN! Round Score: 8
+67 67 
+0 | SCISSORS  DRAW! Round Score: 6
+67 65 
+2 | ROCK  WIN! Round Score: 7
+66 66 
+0 | PAPER  DRAW! Round Score: 5
+66 67 
+-1 | SCISSORS  WIN! Round Score: 9
+67 67 
+0 | SCISSORS  DRAW! Round Score: 6
+66 67 
+-1 | SCISSORS  WIN! Round Score: 9
+67 65 
+2 | ROCK  WIN! Round Score: 7
+65 65 
+0 | ROCK  DRAW! Round Score: 4
+65 65 
+0 | ROCK  DRAW! Round Score: 4
+66 67 
+-1 | SCISSORS  WIN! Round Score: 9
+67 67 
+0 | SCISSORS  DRAW! Round Score: 6
+67 67 
+0 | SCISSORS  DRAW! Round Score: 6
+67 67 
+0 | SCISSORS  DRAW! Round Score: 6
+67 66 
+1 | PAPER  LOSS! Round Score: 2
+65 66 
+-1 | PAPER  WIN! Round Score: 8
+67 67 
+0 | SCISSORS  DRAW! Round Score: 6
+66 65 
+1 | ROCK  LOSS! Round Score: 1
+67 66 
+1 | PAPER  LOSS! Round Score: 2
+65 67 
+-2 | SCISSORS  LOSS! Round Score: 3
+67 66 
+1 | PAPER  LOSS! Round Score: 2
+67 66 
+1 | PAPER  LOSS! Round Score: 2
+65 66 
+-1 | PAPER  WIN! Round Score: 8
+67 65 
+2 | ROCK  WIN! Round Score: 7
+67 66 
+1 | PAPER  LOSS! Round Score: 2
+66 67 
+-1 | SCISSORS  WIN! Round Score: 9
+67 65 
+2 | ROCK  WIN! Round Score: 7
+67 65 
+2 | ROCK  WIN! Round Score: 7
+67 65 
+2 | ROCK  WIN! Round Score: 7
+66 67 
+-1 | SCISSORS  WIN! Round Score: 9
+67 65 
+2 | ROCK  WIN! Round Score: 7
+66 67 
+-1 | SCISSORS  WIN! Round Score: 9
+65 65 
+0 | ROCK  DRAW! Round Score: 4
+67 66 
+1 | PAPER  LOSS! Round Score: 2
+67 66 
+1 | PAPER  LOSS! Round Score: 2
+65 65 
+0 | ROCK  DRAW! Round Score: 4
+67 65 
+2 | ROCK  WIN! Round Score: 7
+65 66 
+-1 | PAPER  WIN! Round Score: 8
+67 65 
+2 | ROCK  WIN! Round Score: 7
+65 65 
+0 | ROCK  DRAW! Round Score: 4
+67 67 
+0 | SCISSORS  DRAW! Round Score: 6
+65 65 
+0 | ROCK  DRAW! Round Score: 4
+67 65 
+2 | ROCK  WIN! Round Score: 7
+67 65 
+2 | ROCK  WIN! Round Score: 7
+65 66 
+-1 | PAPER  WIN! Round Score: 8
+67 67 
+0 | SCISSORS  DRAW! Round Score: 6
+67 67 
+0 | SCISSORS  DRAW! Round Score: 6
+67 65 
+2 | ROCK  WIN! Round Score: 7
+67 65 
+2 | ROCK  WIN! Round Score: 7
+66 67 
+-1 | SCISSORS  WIN! Round Score: 9
+65 66 
+-1 | PAPER  WIN! Round Score: 8
+67 66 
+1 | PAPER  LOSS! Round Score: 2
+67 65 
+2 | ROCK  WIN! Round Score: 7
+65 66 
+-1 | PAPER  WIN! Round Score: 8
+67 67 
+0 | SCISSORS  DRAW! Round Score: 6
+65 65 
+0 | ROCK  DRAW! Round Score: 4
+67 65 
+2 | ROCK  WIN! Round Score: 7
+66 67 
+-1 | SCISSORS  WIN! Round Score: 9
+67 65 
+2 | ROCK  WIN! Round Score: 7
+67 65 
+2 | ROCK  WIN! Round Score: 7
+66 65 
+1 | ROCK  LOSS! Round Score: 1
+66 65 
+1 | ROCK  LOSS! Round Score: 1
+66 67 
+-1 | SCISSORS  WIN! Round Score: 9
+67 67 
+0 | SCISSORS  DRAW! Round Score: 6
+67 65 
+2 | ROCK  WIN! Round Score: 7
+65 66 
+-1 | PAPER  WIN! Round Score: 8
+66 67 
+-1 | SCISSORS  WIN! Round Score: 9
+66 66 
+0 | PAPER  DRAW! Round Score: 5
+67 65 
+2 | ROCK  WIN! Round Score: 7
+67 67 
+0 | SCISSORS  DRAW! Round Score: 6
+65 66 
+-1 | PAPER  WIN! Round Score: 8
+67 67 
+0 | SCISSORS  DRAW! Round Score: 6
+67 65 
+2 | ROCK  WIN! Round Score: 7
+67 65 
+2 | ROCK  WIN! Round Score: 7
+66 67 
+-1 | SCISSORS  WIN! Round Score: 9
+67 65 
+2 | ROCK  WIN! Round Score: 7
+65 66 
+-1 | PAPER  WIN! Round Score: 8
+65 65 
+0 | ROCK  DRAW! Round Score: 4
+65 67 
+-2 | SCISSORS  LOSS! Round Score: 3
+67 67 
+0 | SCISSORS  DRAW! Round Score: 6
+67 66 
+1 | PAPER  LOSS! Round Score: 2
+66 67 
+-1 | SCISSORS  WIN! Round Score: 9
+67 65 
+2 | ROCK  WIN! Round Score: 7
+65 65 
+0 | ROCK  DRAW! Round Score: 4
+67 65 
+2 | ROCK  WIN! Round Score: 7
+65 65 
+0 | ROCK  DRAW! Round Score: 4
+67 65 
+2 | ROCK  WIN! Round Score: 7
+67 65 
+2 | ROCK  WIN! Round Score: 7
+67 67 
+0 | SCISSORS  DRAW! Round Score: 6
+65 65 
+0 | ROCK  DRAW! Round Score: 4
+66 67 
+-1 | SCISSORS  WIN! Round Score: 9
+67 67 
+0 | SCISSORS  DRAW! Round Score: 6
+67 65 
+2 | ROCK  WIN! Round Score: 7
+67 65 
+2 | ROCK  WIN! Round Score: 7
+65 65 
+0 | ROCK  DRAW! Round Score: 4
+67 67 
+0 | SCISSORS  DRAW! Round Score: 6
+67 65 
+2 | ROCK  WIN! Round Score: 7
+67 65 
+2 | ROCK  WIN! Round Score: 7
+67 67 
+0 | SCISSORS  DRAW! Round Score: 6
+67 66 
+1 | PAPER  LOSS! Round Score: 2
+67 65 
+2 | ROCK  WIN! Round Score: 7
+65 65 
+0 | ROCK  DRAW! Round Score: 4
+67 65 
+2 | ROCK  WIN! Round Score: 7
+67 65 
+2 | ROCK  WIN! Round Score: 7
+67 65 
+2 | ROCK  WIN! Round Score: 7
+65 65 
+0 | ROCK  DRAW! Round Score: 4
+67 67 
+0 | SCISSORS  DRAW! Round Score: 6
+67 67 
+0 | SCISSORS  DRAW! Round Score: 6
+67 66 
+1 | PAPER  LOSS! Round Score: 2
+66 67 
+-1 | SCISSORS  WIN! Round Score: 9
+67 65 
+2 | ROCK  WIN! Round Score: 7
+65 66 
+-1 | PAPER  WIN! Round Score: 8
+67 67 
+0 | SCISSORS  DRAW! Round Score: 6
+67 65 
+2 | ROCK  WIN! Round Score: 7
+67 66 
+1 | PAPER  LOSS! Round Score: 2
+66 65 
+1 | ROCK  LOSS! Round Score: 1
+65 65 
+0 | ROCK  DRAW! Round Score: 4
+67 65 
+2 | ROCK  WIN! Round Score: 7
+66 67 
+-1 | SCISSORS  WIN! Round Score: 9
+67 66 
+1 | PAPER  LOSS! Round Score: 2
+66 65 
+1 | ROCK  LOSS! Round Score: 1
+65 66 
+-1 | PAPER  WIN! Round Score: 8
+66 65 
+1 | ROCK  LOSS! Round Score: 1
+67 67 
+0 | SCISSORS  DRAW! Round Score: 6
+67 66 
+1 | PAPER  LOSS! Round Score: 2
+67 65 
+2 | ROCK  WIN! Round Score: 7
+67 67 
+0 | SCISSORS  DRAW! Round Score: 6
+65 66 
+-1 | PAPER  WIN! Round Score: 8
+65 66 
+-1 | PAPER  WIN! Round Score: 8
+67 65 
+2 | ROCK  WIN! Round Score: 7
+65 65 
+0 | ROCK  DRAW! Round Score: 4
+67 65 
+2 | ROCK  WIN! Round Score: 7
+67 65 
+2 | ROCK  WIN! Round Score: 7
+65 66 
+-1 | PAPER  WIN! Round Score: 8
+65 65 
+0 | ROCK  DRAW! Round Score: 4
+66 65 
+1 | ROCK  LOSS! Round Score: 1
+67 66 
+1 | PAPER  LOSS! Round Score: 2
+65 66 
+-1 | PAPER  WIN! Round Score: 8
+67 65 
+2 | ROCK  WIN! Round Score: 7
+67 67 
+0 | SCISSORS  DRAW! Round Score: 6
+65 66 
+-1 | PAPER  WIN! Round Score: 8
+67 67 
+0 | SCISSORS  DRAW! Round Score: 6
+66 67 
+-1 | SCISSORS  WIN! Round Score: 9
+67 67 
+0 | SCISSORS  DRAW! Round Score: 6
+65 65 
+0 | ROCK  DRAW! Round Score: 4
+67 66 
+1 | PAPER  LOSS! Round Score: 2
+67 66 
+1 | PAPER  LOSS! Round Score: 2
+67 66 
+1 | PAPER  LOSS! Round Score: 2
+65 66 
+-1 | PAPER  WIN! Round Score: 8
+65 67 
+-2 | SCISSORS  LOSS! Round Score: 3
+65 66 
+-1 | PAPER  WIN! Round Score: 8
+67 65 
+2 | ROCK  WIN! Round Score: 7
+67 65 
+2 | ROCK  WIN! Round Score: 7
+65 66 
+-1 | PAPER  WIN! Round Score: 8
+67 66 
+1 | PAPER  LOSS! Round Score: 2
+65 65 
+0 | ROCK  DRAW! Round Score: 4
+67 66 
+1 | PAPER  LOSS! Round Score: 2
+65 66 
+-1 | PAPER  WIN! Round Score: 8
+67 65 
+2 | ROCK  WIN! Round Score: 7
+67 66 
+1 | PAPER  LOSS! Round Score: 2
+66 67 
+-1 | SCISSORS  WIN! Round Score: 9
+67 67 
+0 | SCISSORS  DRAW! Round Score: 6
+67 67 
+0 | SCISSORS  DRAW! Round Score: 6
+66 65 
+1 | ROCK  LOSS! Round Score: 1
+67 66 
+1 | PAPER  LOSS! Round Score: 2
+66 65 
+1 | ROCK  LOSS! Round Score: 1
+65 66 
+-1 | PAPER  WIN! Round Score: 8
+65 66 
+-1 | PAPER  WIN! Round Score: 8
+65 65 
+0 | ROCK  DRAW! Round Score: 4
+65 66 
+-1 | PAPER  WIN! Round Score: 8
+67 67 
+0 | SCISSORS  DRAW! Round Score: 6
+67 67 
+0 | SCISSORS  DRAW! Round Score: 6
+67 66 
+1 | PAPER  LOSS! Round Score: 2
+66 67 
+-1 | SCISSORS  WIN! Round Score: 9
+65 67 
+-2 | SCISSORS  LOSS! Round Score: 3
+67 65 
+2 | ROCK  WIN! Round Score: 7
+67 67 
+0 | SCISSORS  DRAW! Round Score: 6
+65 65 
+0 | ROCK  DRAW! Round Score: 4
+67 65 
+2 | ROCK  WIN! Round Score: 7
+67 65 
+2 | ROCK  WIN! Round Score: 7
+67 67 
+0 | SCISSORS  DRAW! Round Score: 6
+67 66 
+1 | PAPER  LOSS! Round Score: 2
+67 65 
+2 | ROCK  WIN! Round Score: 7
+65 66 
+-1 | PAPER  WIN! Round Score: 8
+67 67 
+0 | SCISSORS  DRAW! Round Score: 6
+66 67 
+-1 | SCISSORS  WIN! Round Score: 9
+65 66 
+-1 | PAPER  WIN! Round Score: 8
+65 65 
+0 | ROCK  DRAW! Round Score: 4
+67 66 
+1 | PAPER  LOSS! Round Score: 2
+66 65 
+1 | ROCK  LOSS! Round Score: 1
+67 67 
+0 | SCISSORS  DRAW! Round Score: 6
+65 66 
+-1 | PAPER  WIN! Round Score: 8
+67 65 
+2 | ROCK  WIN! Round Score: 7
+67 66 
+1 | PAPER  LOSS! Round Score: 2
+67 65 
+2 | ROCK  WIN! Round Score: 7
+65 65 
+0 | ROCK  DRAW! Round Score: 4
+67 67 
+0 | SCISSORS  DRAW! Round Score: 6
+67 67 
+0 | SCISSORS  DRAW! Round Score: 6
+67 65 
+2 | ROCK  WIN! Round Score: 7
+67 67 
+0 | SCISSORS  DRAW! Round Score: 6
+65 65 
+0 | ROCK  DRAW! Round Score: 4
+67 65 
+2 | ROCK  WIN! Round Score: 7
+67 65 
+2 | ROCK  WIN! Round Score: 7
+65 67 
+-2 | SCISSORS  LOSS! Round Score: 3
+66 67 
+-1 | SCISSORS  WIN! Round Score: 9
+65 65 
+0 | ROCK  DRAW! Round Score: 4
+67 66 
+1 | PAPER  LOSS! Round Score: 2
+67 65 
+2 | ROCK  WIN! Round Score: 7
+65 65 
+0 | ROCK  DRAW! Round Score: 4
+67 65 
+2 | ROCK  WIN! Round Score: 7
+67 67 
+0 | SCISSORS  DRAW! Round Score: 6
+67 66 
+1 | PAPER  LOSS! Round Score: 2
+65 66 
+-1 | PAPER  WIN! Round Score: 8
+67 65 
+2 | ROCK  WIN! Round Score: 7
+65 66 
+-1 | PAPER  WIN! Round Score: 8
+65 65 
+0 | ROCK  DRAW! Round Score: 4
+67 66 
+1 | PAPER  LOSS! Round Score: 2
+65 66 
+-1 | PAPER  WIN! Round Score: 8
+67 65 
+2 | ROCK  WIN! Round Score: 7
+65 66 
+-1 | PAPER  WIN! Round Score: 8
+67 65 
+2 | ROCK  WIN! Round Score: 7
+66 67 
+-1 | SCISSORS  WIN! Round Score: 9
+67 65 
+2 | ROCK  WIN! Round Score: 7
+67 65 
+2 | ROCK  WIN! Round Score: 7
+67 65 
+2 | ROCK  WIN! Round Score: 7
+67 67 
+0 | SCISSORS  DRAW! Round Score: 6
+67 67 
+0 | SCISSORS  DRAW! Round Score: 6
+67 67 
+0 | SCISSORS  DRAW! Round Score: 6
+66 67 
+-1 | SCISSORS  WIN! Round Score: 9
+67 65 
+2 | ROCK  WIN! Round Score: 7
+66 67 
+-1 | SCISSORS  WIN! Round Score: 9
+67 65 
+2 | ROCK  WIN! Round Score: 7
+65 65 
+0 | ROCK  DRAW! Round Score: 4
+65 66 
+-1 | PAPER  WIN! Round Score: 8
+65 66 
+-1 | PAPER  WIN! Round Score: 8
+65 65 
+0 | ROCK  DRAW! Round Score: 4
+67 66 
+1 | PAPER  LOSS! Round Score: 2
+65 65 
+0 | ROCK  DRAW! Round Score: 4
+67 66 
+1 | PAPER  LOSS! Round Score: 2
+65 66 
+-1 | PAPER  WIN! Round Score: 8
+66 67 
+-1 | SCISSORS  WIN! Round Score: 9
+67 65 
+2 | ROCK  WIN! Round Score: 7
+67 65 
+2 | ROCK  WIN! Round Score: 7
+67 66 
+1 | PAPER  LOSS! Round Score: 2
+67 65 
+2 | ROCK  WIN! Round Score: 7
+67 67 
+0 | SCISSORS  DRAW! Round Score: 6
+65 65 
+0 | ROCK  DRAW! Round Score: 4
+65 66 
+-1 | PAPER  WIN! Round Score: 8
+67 67 
+0 | SCISSORS  DRAW! Round Score: 6
+65 65 
+0 | ROCK  DRAW! Round Score: 4
+67 65 
+2 | ROCK  WIN! Round Score: 7
+67 65 
+2 | ROCK  WIN! Round Score: 7
+66 65 
+1 | ROCK  LOSS! Round Score: 1
+67 65 
+2 | ROCK  WIN! Round Score: 7
+65 66 
+-1 | PAPER  WIN! Round Score: 8
+67 65 
+2 | ROCK  WIN! Round Score: 7
+67 67 
+0 | SCISSORS  DRAW! Round Score: 6
+66 67 
+-1 | SCISSORS  WIN! Round Score: 9
+65 65 
+0 | ROCK  DRAW! Round Score: 4
+66 67 
+-1 | SCISSORS  WIN! Round Score: 9
+67 66 
+1 | PAPER  LOSS! Round Score: 2
+67 67 
+0 | SCISSORS  DRAW! Round Score: 6
+67 66 
+1 | PAPER  LOSS! Round Score: 2
+67 66 
+1 | PAPER  LOSS! Round Score: 2
+67 65 
+2 | ROCK  WIN! Round Score: 7
+67 67 
+0 | SCISSORS  DRAW! Round Score: 6
+67 67 
+0 | SCISSORS  DRAW! Round Score: 6
+67 67 
+0 | SCISSORS  DRAW! Round Score: 6
+65 65 
+0 | ROCK  DRAW! Round Score: 4
+67 65 
+2 | ROCK  WIN! Round Score: 7
+65 65 
+0 | ROCK  DRAW! Round Score: 4
+65 66 
+-1 | PAPER  WIN! Round Score: 8
+65 65 
+0 | ROCK  DRAW! Round Score: 4
+67 67 
+0 | SCISSORS  DRAW! Round Score: 6
+67 67 
+0 | SCISSORS  DRAW! Round Score: 6
+65 67 
+-2 | SCISSORS  LOSS! Round Score: 3
+67 66 
+1 | PAPER  LOSS! Round Score: 2
+66 67 
+-1 | SCISSORS  WIN! Round Score: 9
+65 65 
+0 | ROCK  DRAW! Round Score: 4
+67 67 
+0 | SCISSORS  DRAW! Round Score: 6
+67 67 
+0 | SCISSORS  DRAW! Round Score: 6
+67 65 
+2 | ROCK  WIN! Round Score: 7
+67 65 
+2 | ROCK  WIN! Round Score: 7
+65 65 
+0 | ROCK  DRAW! Round Score: 4
+65 67 
+-2 | SCISSORS  LOSS! Round Score: 3
+67 67 
+0 | SCISSORS  DRAW! Round Score: 6
+67 65 
+2 | ROCK  WIN! Round Score: 7
+67 65 
+2 | ROCK  WIN! Round Score: 7
+67 66 
+1 | PAPER  LOSS! Round Score: 2
+67 66 
+1 | PAPER  LOSS! Round Score: 2
+67 66 
+1 | PAPER  LOSS! Round Score: 2
+65 66 
+-1 | PAPER  WIN! Round Score: 8
+65 66 
+-1 | PAPER  WIN! Round Score: 8
+67 67 
+0 | SCISSORS  DRAW! Round Score: 6
+65 65 
+0 | ROCK  DRAW! Round Score: 4
+67 67 
+0 | SCISSORS  DRAW! Round Score: 6
+67 65 
+2 | ROCK  WIN! Round Score: 7
+65 65 
+0 | ROCK  DRAW! Round Score: 4
+67 66 
+1 | PAPER  LOSS! Round Score: 2
+67 67 
+0 | SCISSORS  DRAW! Round Score: 6
+67 66 
+1 | PAPER  LOSS! Round Score: 2
+65 65 
+0 | ROCK  DRAW! Round Score: 4
+65 66 
+-1 | PAPER  WIN! Round Score: 8
+65 65 
+0 | ROCK  DRAW! Round Score: 4
+67 67 
+0 | SCISSORS  DRAW! Round Score: 6
+66 67 
+-1 | SCISSORS  WIN! Round Score: 9
+67 67 
+0 | SCISSORS  DRAW! Round Score: 6
+65 65 
+0 | ROCK  DRAW! Round Score: 4
+67 65 
+2 | ROCK  WIN! Round Score: 7
+67 66 
+1 | PAPER  LOSS! Round Score: 2
+67 65 
+2 | ROCK  WIN! Round Score: 7
+67 65 
+2 | ROCK  WIN! Round Score: 7
+67 66 
+1 | PAPER  LOSS! Round Score: 2
+67 67 
+0 | SCISSORS  DRAW! Round Score: 6
+67 67 
+0 | SCISSORS  DRAW! Round Score: 6
+67 66 
+1 | PAPER  LOSS! Round Score: 2
+67 65 
+2 | ROCK  WIN! Round Score: 7
+65 66 
+-1 | PAPER  WIN! Round Score: 8
+67 66 
+1 | PAPER  LOSS! Round Score: 2
+67 67 
+0 | SCISSORS  DRAW! Round Score: 6
+66 67 
+-1 | SCISSORS  WIN! Round Score: 9
+67 66 
+1 | PAPER  LOSS! Round Score: 2
+67 66 
+1 | PAPER  LOSS! Round Score: 2
+65 65 
+0 | ROCK  DRAW! Round Score: 4
+67 67 
+0 | SCISSORS  DRAW! Round Score: 6
+66 67 
+-1 | SCISSORS  WIN! Round Score: 9
+67 65 
+2 | ROCK  WIN! Round Score: 7
+66 67 
+-1 | SCISSORS  WIN! Round Score: 9
+66 67 
+-1 | SCISSORS  WIN! Round Score: 9
+67 67 
+0 | SCISSORS  DRAW! Round Score: 6
+67 65 
+2 | ROCK  WIN! Round Score: 7
+67 67 
+0 | SCISSORS  DRAW! Round Score: 6
+65 65 
+0 | ROCK  DRAW! Round Score: 4
+67 67 
+0 | SCISSORS  DRAW! Round Score: 6
+67 65 
+2 | ROCK  WIN! Round Score: 7
+65 66 
+-1 | PAPER  WIN! Round Score: 8
+65 65 
+0 | ROCK  DRAW! Round Score: 4
+65 66 
+-1 | PAPER  WIN! Round Score: 8
+67 67 
+0 | SCISSORS  DRAW! Round Score: 6
+67 67 
+0 | SCISSORS  DRAW! Round Score: 6
+67 67 
+0 | SCISSORS  DRAW! Round Score: 6
+67 67 
+0 | SCISSORS  DRAW! Round Score: 6
+67 65 
+2 | ROCK  WIN! Round Score: 7
+66 67 
+-1 | SCISSORS  WIN! Round Score: 9
+67 66 
+1 | PAPER  LOSS! Round Score: 2
+67 65 
+2 | ROCK  WIN! Round Score: 7
+66 67 
+-1 | SCISSORS  WIN! Round Score: 9
+67 65 
+2 | ROCK  WIN! Round Score: 7
+65 65 
+0 | ROCK  DRAW! Round Score: 4
+65 66 
+-1 | PAPER  WIN! Round Score: 8
+67 65 
+2 | ROCK  WIN! Round Score: 7
+65 67 
+-2 | SCISSORS  LOSS! Round Score: 3
+65 66 
+-1 | PAPER  WIN! Round Score: 8
+65 65 
+0 | ROCK  DRAW! Round Score: 4
+67 66 
+1 | PAPER  LOSS! Round Score: 2
+67 67 
+0 | SCISSORS  DRAW! Round Score: 6
+67 66 
+1 | PAPER  LOSS! Round Score: 2
+67 67 
+0 | SCISSORS  DRAW! Round Score: 6
+66 67 
+-1 | SCISSORS  WIN! Round Score: 9
+67 66 
+1 | PAPER  LOSS! Round Score: 2
+67 65 
+2 | ROCK  WIN! Round Score: 7
+65 66 
+-1 | PAPER  WIN! Round Score: 8
+66 67 
+-1 | SCISSORS  WIN! Round Score: 9
+67 67 
+0 | SCISSORS  DRAW! Round Score: 6
+67 67 
+0 | SCISSORS  DRAW! Round Score: 6
+67 66 
+1 | PAPER  LOSS! Round Score: 2
+67 65 
+2 | ROCK  WIN! Round Score: 7
+67 67 
+0 | SCISSORS  DRAW! Round Score: 6
+65 66 
+-1 | PAPER  WIN! Round Score: 8
+67 66 
+1 | PAPER  LOSS! Round Score: 2
+65 66 
+-1 | PAPER  WIN! Round Score: 8
+67 67 
+0 | SCISSORS  DRAW! Round Score: 6
+66 67 
+-1 | SCISSORS  WIN! Round Score: 9
+67 67 
+0 | SCISSORS  DRAW! Round Score: 6
+65 65 
+0 | ROCK  DRAW! Round Score: 4
+67 67 
+0 | SCISSORS  DRAW! Round Score: 6
+67 67 
+0 | SCISSORS  DRAW! Round Score: 6
+67 66 
+1 | PAPER  LOSS! Round Score: 2
+67 65 
+2 | ROCK  WIN! Round Score: 7
+67 66 
+1 | PAPER  LOSS! Round Score: 2
+65 65 
+0 | ROCK  DRAW! Round Score: 4
+67 66 
+1 | PAPER  LOSS! Round Score: 2
+67 67 
+0 | SCISSORS  DRAW! Round Score: 6
+67 65 
+2 | ROCK  WIN! Round Score: 7
+65 65 
+0 | ROCK  DRAW! Round Score: 4
+66 67 
+-1 | SCISSORS  WIN! Round Score: 9
+67 66 
+1 | PAPER  LOSS! Round Score: 2
+67 65 
+2 | ROCK  WIN! Round Score: 7
+67 67 
+0 | SCISSORS  DRAW! Round Score: 6
+67 66 
+1 | PAPER  LOSS! Round Score: 2
+65 65 
+0 | ROCK  DRAW! Round Score: 4
+67 65 
+2 | ROCK  WIN! Round Score: 7
+65 66 
+-1 | PAPER  WIN! Round Score: 8
+65 66 
+-1 | PAPER  WIN! Round Score: 8
+67 65 
+2 | ROCK  WIN! Round Score: 7
+67 67 
+0 | SCISSORS  DRAW! Round Score: 6
+67 66 
+1 | PAPER  LOSS! Round Score: 2
+66 67 
+-1 | SCISSORS  WIN! Round Score: 9
+66 65 
+1 | ROCK  LOSS! Round Score: 1
+67 66 
+1 | PAPER  LOSS! Round Score: 2
+67 65 
+2 | ROCK  WIN! Round Score: 7
+67 65 
+2 | ROCK  WIN! Round Score: 7
+67 67 
+0 | SCISSORS  DRAW! Round Score: 6
+67 66 
+1 | PAPER  LOSS! Round Score: 2
+67 65 
+2 | ROCK  WIN! Round Score: 7
+67 67 
+0 | SCISSORS  DRAW! Round Score: 6
+67 66 
+1 | PAPER  LOSS! Round Score: 2
+65 65 
+0 | ROCK  DRAW! Round Score: 4
+66 66 
+0 | PAPER  DRAW! Round Score: 5
+65 65 
+0 | ROCK  DRAW! Round Score: 4
+65 66 
+-1 | PAPER  WIN! Round Score: 8
+67 65 
+2 | ROCK  WIN! Round Score: 7
+65 65 
+0 | ROCK  DRAW! Round Score: 4
+65 65 
+0 | ROCK  DRAW! Round Score: 4
+65 65 
+0 | ROCK  DRAW! Round Score: 4
+67 66 
+1 | PAPER  LOSS! Round Score: 2
+66 65 
+1 | ROCK  LOSS! Round Score: 1
+66 67 
+-1 | SCISSORS  WIN! Round Score: 9
+67 67 
+0 | SCISSORS  DRAW! Round Score: 6
+67 65 
+2 | ROCK  WIN! Round Score: 7
+67 67 
+0 | SCISSORS  DRAW! Round Score: 6
+65 66 
+-1 | PAPER  WIN! Round Score: 8
+67 66 
+1 | PAPER  LOSS! Round Score: 2
+67 65 
+2 | ROCK  WIN! Round Score: 7
+66 67 
+-1 | SCISSORS  WIN! Round Score: 9
+65 65 
+0 | ROCK  DRAW! Round Score: 4
+67 65 
+2 | ROCK  WIN! Round Score: 7
+65 66 
+-1 | PAPER  WIN! Round Score: 8
+67 65 
+2 | ROCK  WIN! Round Score: 7
+67 65 
+2 | ROCK  WIN! Round Score: 7
+67 65 
+2 | ROCK  WIN! Round Score: 7
+66 67 
+-1 | SCISSORS  WIN! Round Score: 9
+67 67 
+0 | SCISSORS  DRAW! Round Score: 6
+67 65 
+2 | ROCK  WIN! Round Score: 7
+66 65 
+1 | ROCK  LOSS! Round Score: 1
+67 67 
+0 | SCISSORS  DRAW! Round Score: 6
+67 66 
+1 | PAPER  LOSS! Round Score: 2
+67 65 
+2 | ROCK  WIN! Round Score: 7
+67 66 
+1 | PAPER  LOSS! Round Score: 2
+67 67 
+0 | SCISSORS  DRAW! Round Score: 6
+67 67 
+0 | SCISSORS  DRAW! Round Score: 6
+67 67 
+0 | SCISSORS  DRAW! Round Score: 6
+65 65 
+0 | ROCK  DRAW! Round Score: 4
+67 65 
+2 | ROCK  WIN! Round Score: 7
+67 65 
+2 | ROCK  WIN! Round Score: 7
+67 65 
+2 | ROCK  WIN! Round Score: 7
+66 67 
+-1 | SCISSORS  WIN! Round Score: 9
+67 67 
+0 | SCISSORS  DRAW! Round Score: 6
+65 66 
+-1 | PAPER  WIN! Round Score: 8
+67 65 
+2 | ROCK  WIN! Round Score: 7
+66 67 
+-1 | SCISSORS  WIN! Round Score: 9
+66 67 
+-1 | SCISSORS  WIN! Round Score: 9
+65 66 
+-1 | PAPER  WIN! Round Score: 8
+65 66 
+-1 | PAPER  WIN! Round Score: 8
+66 67 
+-1 | SCISSORS  WIN! Round Score: 9
+67 65 
+2 | ROCK  WIN! Round Score: 7
+67 66 
+1 | PAPER  LOSS! Round Score: 2
+65 65 
+0 | ROCK  DRAW! Round Score: 4
+67 66 
+1 | PAPER  LOSS! Round Score: 2
+67 65 
+2 | ROCK  WIN! Round Score: 7
+67 66 
+1 | PAPER  LOSS! Round Score: 2
+67 66 
+1 | PAPER  LOSS! Round Score: 2
+67 65 
+2 | ROCK  WIN! Round Score: 7
+66 67 
+-1 | SCISSORS  WIN! Round Score: 9
+67 67 
+0 | SCISSORS  DRAW! Round Score: 6
+67 67 
+0 | SCISSORS  DRAW! Round Score: 6
+67 67 
+0 | SCISSORS  DRAW! Round Score: 6
+67 66 
+1 | PAPER  LOSS! Round Score: 2
+65 66 
+-1 | PAPER  WIN! Round Score: 8
+67 67 
+0 | SCISSORS  DRAW! Round Score: 6
+67 66 
+1 | PAPER  LOSS! Round Score: 2
+65 65 
+0 | ROCK  DRAW! Round Score: 4
+67 65 
+2 | ROCK  WIN! Round Score: 7
+67 67 
+0 | SCISSORS  DRAW! Round Score: 6
+67 66 
+1 | PAPER  LOSS! Round Score: 2
+65 66 
+-1 | PAPER  WIN! Round Score: 8
+67 67 
+0 | SCISSORS  DRAW! Round Score: 6
+67 65 
+2 | ROCK  WIN! Round Score: 7
+66 67 
+-1 | SCISSORS  WIN! Round Score: 9
+67 65 
+2 | ROCK  WIN! Round Score: 7
+67 67 
+0 | SCISSORS  DRAW! Round Score: 6
+67 67 
+0 | SCISSORS  DRAW! Round Score: 6
+67 66 
+1 | PAPER  LOSS! Round Score: 2
+65 65 
+0 | ROCK  DRAW! Round Score: 4
+65 66 
+-1 | PAPER  WIN! Round Score: 8
+67 67 
+0 | SCISSORS  DRAW! Round Score: 6
+65 66 
+-1 | PAPER  WIN! Round Score: 8
+67 67 
+0 | SCISSORS  DRAW! Round Score: 6
+67 65 
+2 | ROCK  WIN! Round Score: 7
+67 67 
+0 | SCISSORS  DRAW! Round Score: 6
+67 67 
+0 | SCISSORS  DRAW! Round Score: 6
+65 65 
+0 | ROCK  DRAW! Round Score: 4
+65 65 
+0 | ROCK  DRAW! Round Score: 4
+67 65 
+2 | ROCK  WIN! Round Score: 7
+66 67 
+-1 | SCISSORS  WIN! Round Score: 9
+66 67 
+-1 | SCISSORS  WIN! Round Score: 9
+67 66 
+1 | PAPER  LOSS! Round Score: 2
+65 66 
+-1 | PAPER  WIN! Round Score: 8
+67 65 
+2 | ROCK  WIN! Round Score: 7
+67 65 
+2 | ROCK  WIN! Round Score: 7
+67 67 
+0 | SCISSORS  DRAW! Round Score: 6
+67 67 
+0 | SCISSORS  DRAW! Round Score: 6
+65 66 
+-1 | PAPER  WIN! Round Score: 8
+67 66 
+1 | PAPER  LOSS! Round Score: 2
+67 67 
+0 | SCISSORS  DRAW! Round Score: 6
+65 65 
+0 | ROCK  DRAW! Round Score: 4
+67 65 
+2 | ROCK  WIN! Round Score: 7
+67 66 
+1 | PAPER  LOSS! Round Score: 2
+65 66 
+-1 | PAPER  WIN! Round Score: 8
+67 65 
+2 | ROCK  WIN! Round Score: 7
+67 65 
+2 | ROCK  WIN! Round Score: 7
+65 67 
+-2 | SCISSORS  LOSS! Round Score: 3
+67 65 
+2 | ROCK  WIN! Round Score: 7
+67 66 
+1 | PAPER  LOSS! Round Score: 2
+67 67 
+0 | SCISSORS  DRAW! Round Score: 6
+67 65 
+2 | ROCK  WIN! Round Score: 7
+66 67 
+-1 | SCISSORS  WIN! Round Score: 9
+67 65 
+2 | ROCK  WIN! Round Score: 7
+65 65 
+0 | ROCK  DRAW! Round Score: 4
+67 67 
+0 | SCISSORS  DRAW! Round Score: 6
+67 67 
+0 | SCISSORS  DRAW! Round Score: 6
+65 65 
+0 | ROCK  DRAW! Round Score: 4
+67 67 
+0 | SCISSORS  DRAW! Round Score: 6
+67 66 
+1 | PAPER  LOSS! Round Score: 2
+67 67 
+0 | SCISSORS  DRAW! Round Score: 6
+67 67 
+0 | SCISSORS  DRAW! Round Score: 6
+65 66 
+-1 | PAPER  WIN! Round Score: 8
+67 65 
+2 | ROCK  WIN! Round Score: 7
+67 65 
+2 | ROCK  WIN! Round Score: 7
+67 65 
+2 | ROCK  WIN! Round Score: 7
+67 66 
+1 | PAPER  LOSS! Round Score: 2
+67 67 
+0 | SCISSORS  DRAW! Round Score: 6
+67 65 
+2 | ROCK  WIN! Round Score: 7
+67 65 
+2 | ROCK  WIN! Round Score: 7
+67 66 
+1 | PAPER  LOSS! Round Score: 2
+66 67 
+-1 | SCISSORS  WIN! Round Score: 9
+65 65 
+0 | ROCK  DRAW! Round Score: 4
+67 65 
+2 | ROCK  WIN! Round Score: 7
+65 66 
+-1 | PAPER  WIN! Round Score: 8
+66 67 
+-1 | SCISSORS  WIN! Round Score: 9
+65 66 
+-1 | PAPER  WIN! Round Score: 8
+65 65 
+0 | ROCK  DRAW! Round Score: 4
+65 65 
+0 | ROCK  DRAW! Round Score: 4
+66 65 
+1 | ROCK  LOSS! Round Score: 1
+67 66 
+1 | PAPER  LOSS! Round Score: 2
+65 66 
+-1 | PAPER  WIN! Round Score: 8
+67 66 
+1 | PAPER  LOSS! Round Score: 2
+67 67 
+0 | SCISSORS  DRAW! Round Score: 6
+65 65 
+0 | ROCK  DRAW! Round Score: 4
+67 65 
+2 | ROCK  WIN! Round Score: 7
+65 66 
+-1 | PAPER  WIN! Round Score: 8
+65 66 
+-1 | PAPER  WIN! Round Score: 8
+67 67 
+0 | SCISSORS  DRAW! Round Score: 6
+67 65 
+2 | ROCK  WIN! Round Score: 7
+67 67 
+0 | SCISSORS  DRAW! Round Score: 6
+67 67 
+0 | SCISSORS  DRAW! Round Score: 6
+67 67 
+0 | SCISSORS  DRAW! Round Score: 6
+67 67 
+0 | SCISSORS  DRAW! Round Score: 6
+65 66 
+-1 | PAPER  WIN! Round Score: 8
+65 66 
+-1 | PAPER  WIN! Round Score: 8
+65 65 
+0 | ROCK  DRAW! Round Score: 4
+67 65 
+2 | ROCK  WIN! Round Score: 7
+65 66 
+-1 | PAPER  WIN! Round Score: 8
+67 66 
+1 | PAPER  LOSS! Round Score: 2
+65 65 
+0 | ROCK  DRAW! Round Score: 4
+67 65 
+2 | ROCK  WIN! Round Score: 7
+67 65 
+2 | ROCK  WIN! Round Score: 7
+67 65 
+2 | ROCK  WIN! Round Score: 7
+66 67 
+-1 | SCISSORS  WIN! Round Score: 9
+67 67 
+0 | SCISSORS  DRAW! Round Score: 6
+66 67 
+-1 | SCISSORS  WIN! Round Score: 9
+65 65 
+0 | ROCK  DRAW! Round Score: 4
+67 67 
+0 | SCISSORS  DRAW! Round Score: 6
+67 67 
+0 | SCISSORS  DRAW! Round Score: 6
+67 66 
+1 | PAPER  LOSS! Round Score: 2
+67 65 
+2 | ROCK  WIN! Round Score: 7
+67 65 
+2 | ROCK  WIN! Round Score: 7
+67 65 
+2 | ROCK  WIN! Round Score: 7
+67 66 
+1 | PAPER  LOSS! Round Score: 2
+65 67 
+-2 | SCISSORS  LOSS! Round Score: 3
+66 65 
+1 | ROCK  LOSS! Round Score: 1
+66 67 
+-1 | SCISSORS  WIN! Round Score: 9
+67 65 
+2 | ROCK  WIN! Round Score: 7
+66 67 
+-1 | SCISSORS  WIN! Round Score: 9
+65 65 
+0 | ROCK  DRAW! Round Score: 4
+65 66 
+-1 | PAPER  WIN! Round Score: 8
+67 67 
+0 | SCISSORS  DRAW! Round Score: 6
+66 66 
+0 | PAPER  DRAW! Round Score: 5
+67 65 
+2 | ROCK  WIN! Round Score: 7
+67 65 
+2 | ROCK  WIN! Round Score: 7
+65 66 
+-1 | PAPER  WIN! Round Score: 8
+67 66 
+1 | PAPER  LOSS! Round Score: 2
+67 66 
+1 | PAPER  LOSS! Round Score: 2
+67 67 
+0 | SCISSORS  DRAW! Round Score: 6
+67 65 
+2 | ROCK  WIN! Round Score: 7
+65 65 
+0 | ROCK  DRAW! Round Score: 4
+66 67 
+-1 | SCISSORS  WIN! Round Score: 9
+67 65 
+2 | ROCK  WIN! Round Score: 7
+65 65 
+0 | ROCK  DRAW! Round Score: 4
+65 65 
+0 | ROCK  DRAW! Round Score: 4
+67 65 
+2 | ROCK  WIN! Round Score: 7
+65 65 
+0 | ROCK  DRAW! Round Score: 4
+67 66 
+1 | PAPER  LOSS! Round Score: 2
+66 65 
+1 | ROCK  LOSS! Round Score: 1
+67 67 
+0 | SCISSORS  DRAW! Round Score: 6
+67 67 
+0 | SCISSORS  DRAW! Round Score: 6
+67 67 
+0 | SCISSORS  DRAW! Round Score: 6
+67 67 
+0 | SCISSORS  DRAW! Round Score: 6
+67 65 
+2 | ROCK  WIN! Round Score: 7
+67 67 
+0 | SCISSORS  DRAW! Round Score: 6
+67 65 
+2 | ROCK  WIN! Round Score: 7
+67 67 
+0 | SCISSORS  DRAW! Round Score: 6
+67 67 
+0 | SCISSORS  DRAW! Round Score: 6
+65 65 
+0 | ROCK  DRAW! Round Score: 4
+67 67 
+0 | SCISSORS  DRAW! Round Score: 6
+67 65 
+2 | ROCK  WIN! Round Score: 7
+66 67 
+-1 | SCISSORS  WIN! Round Score: 9
+65 66 
+-1 | PAPER  WIN! Round Score: 8
+67 67 
+0 | SCISSORS  DRAW! Round Score: 6
+66 67 
+-1 | SCISSORS  WIN! Round Score: 9
+67 66 
+1 | PAPER  LOSS! Round Score: 2
+67 65 
+2 | ROCK  WIN! Round Score: 7
+67 65 
+2 | ROCK  WIN! Round Score: 7
+67 67 
+0 | SCISSORS  DRAW! Round Score: 6
+67 66 
+1 | PAPER  LOSS! Round Score: 2
+67 65 
+2 | ROCK  WIN! Round Score: 7
+67 67 
+0 | SCISSORS  DRAW! Round Score: 6
+67 65 
+2 | ROCK  WIN! Round Score: 7
+66 65 
+1 | ROCK  LOSS! Round Score: 1
+67 67 
+0 | SCISSORS  DRAW! Round Score: 6
+65 66 
+-1 | PAPER  WIN! Round Score: 8
+67 65 
+2 | ROCK  WIN! Round Score: 7
+66 67 
+-1 | SCISSORS  WIN! Round Score: 9
+65 66 
+-1 | PAPER  WIN! Round Score: 8
+65 65 
+0 | ROCK  DRAW! Round Score: 4
+67 65 
+2 | ROCK  WIN! Round Score: 7
+67 65 
+2 | ROCK  WIN! Round Score: 7
+66 67 
+-1 | SCISSORS  WIN! Round Score: 9
+67 66 
+1 | PAPER  LOSS! Round Score: 2
+67 67 
+0 | SCISSORS  DRAW! Round Score: 6
+67 65 
+2 | ROCK  WIN! Round Score: 7
+67 67 
+0 | SCISSORS  DRAW! Round Score: 6
+67 67 
+0 | SCISSORS  DRAW! Round Score: 6
+67 67 
+0 | SCISSORS  DRAW! Round Score: 6
+66 65 
+1 | ROCK  LOSS! Round Score: 1
+67 65 
+2 | ROCK  WIN! Round Score: 7
+67 65 
+2 | ROCK  WIN! Round Score: 7
+67 66 
+1 | PAPER  LOSS! Round Score: 2
+66 67 
+-1 | SCISSORS  WIN! Round Score: 9
+65 66 
+-1 | PAPER  WIN! Round Score: 8
+67 66 
+1 | PAPER  LOSS! Round Score: 2
+67 67 
+0 | SCISSORS  DRAW! Round Score: 6
+65 67 
+-2 | SCISSORS  LOSS! Round Score: 3
+65 66 
+-1 | PAPER  WIN! Round Score: 8
+67 67 
+0 | SCISSORS  DRAW! Round Score: 6
+67 66 
+1 | PAPER  LOSS! Round Score: 2
+67 66 
+1 | PAPER  LOSS! Round Score: 2
+65 65 
+0 | ROCK  DRAW! Round Score: 4
+66 67 
+-1 | SCISSORS  WIN! Round Score: 9
+66 67 
+-1 | SCISSORS  WIN! Round Score: 9
+67 65 
+2 | ROCK  WIN! Round Score: 7
+65 65 
+0 | ROCK  DRAW! Round Score: 4
+67 67 
+0 | SCISSORS  DRAW! Round Score: 6
+66 67 
+-1 | SCISSORS  WIN! Round Score: 9
+67 67 
+0 | SCISSORS  DRAW! Round Score: 6
+67 66 
+1 | PAPER  LOSS! Round Score: 2
+67 67 
+0 | SCISSORS  DRAW! Round Score: 6
+67 66 
+1 | PAPER  LOSS! Round Score: 2
+65 65 
+0 | ROCK  DRAW! Round Score: 4
+67 65 
+2 | ROCK  WIN! Round Score: 7
+67 66 
+1 | PAPER  LOSS! Round Score: 2
+67 65 
+2 | ROCK  WIN! Round Score: 7
+66 65 
+1 | ROCK  LOSS! Round Score: 1
+67 66 
+1 | PAPER  LOSS! Round Score: 2
+65 66 
+-1 | PAPER  WIN! Round Score: 8
+67 65 
+2 | ROCK  WIN! Round Score: 7
+67 67 
+0 | SCISSORS  DRAW! Round Score: 6
+65 67 
+-2 | SCISSORS  LOSS! Round Score: 3
+67 66 
+1 | PAPER  LOSS! Round Score: 2
+65 65 
+0 | ROCK  DRAW! Round Score: 4
+67 67 
+0 | SCISSORS  DRAW! Round Score: 6
+67 66 
+1 | PAPER  LOSS! Round Score: 2
+66 67 
+-1 | SCISSORS  WIN! Round Score: 9
+67 66 
+1 | PAPER  LOSS! Round Score: 2
+67 67 
+0 | SCISSORS  DRAW! Round Score: 6
+65 66 
+-1 | PAPER  WIN! Round Score: 8
+67 67 
+0 | SCISSORS  DRAW! Round Score: 6
+67 65 
+2 | ROCK  WIN! Round Score: 7
+65 66 
+-1 | PAPER  WIN! Round Score: 8
+67 65 
+2 | ROCK  WIN! Round Score: 7
+67 67 
+0 | SCISSORS  DRAW! Round Score: 6
+67 65 
+2 | ROCK  WIN! Round Score: 7
+66 67 
+-1 | SCISSORS  WIN! Round Score: 9
+67 65 
+2 | ROCK  WIN! Round Score: 7
+65 65 
+0 | ROCK  DRAW! Round Score: 4
+67 67 
+0 | SCISSORS  DRAW! Round Score: 6
+67 67 
+0 | SCISSORS  DRAW! Round Score: 6
+67 65 
+2 | ROCK  WIN! Round Score: 7
+67 67 
+0 | SCISSORS  DRAW! Round Score: 6
+67 65 
+2 | ROCK  WIN! Round Score: 7
+67 67 
+0 | SCISSORS  DRAW! Round Score: 6
+67 67 
+0 | SCISSORS  DRAW! Round Score: 6
+65 67 
+-2 | SCISSORS  LOSS! Round Score: 3
+65 65 
+0 | ROCK  DRAW! Round Score: 4
+66 67 
+-1 | SCISSORS  WIN! Round Score: 9
+66 65 
+1 | ROCK  LOSS! Round Score: 1
+67 67 
+0 | SCISSORS  DRAW! Round Score: 6
+67 65 
+2 | ROCK  WIN! Round Score: 7
+66 67 
+-1 | SCISSORS  WIN! Round Score: 9
+67 65 
+2 | ROCK  WIN! Round Score: 7
+67 66 
+1 | PAPER  LOSS! Round Score: 2
+67 67 
+0 | SCISSORS  DRAW! Round Score: 6
+67 67 
+0 | SCISSORS  DRAW! Round Score: 6
+65 65 
+0 | ROCK  DRAW! Round Score: 4
+65 65 
+0 | ROCK  DRAW! Round Score: 4
+67 66 
+1 | PAPER  LOSS! Round Score: 2
+66 67 
+-1 | SCISSORS  WIN! Round Score: 9
+65 65 
+0 | ROCK  DRAW! Round Score: 4
+67 65 
+2 | ROCK  WIN! Round Score: 7
+67 67 
+0 | SCISSORS  DRAW! Round Score: 6
+65 67 
+-2 | SCISSORS  LOSS! Round Score: 3
+65 67 
+-2 | SCISSORS  LOSS! Round Score: 3
+67 67 
+0 | SCISSORS  DRAW! Round Score: 6
+67 66 
+1 | PAPER  LOSS! Round Score: 2
+67 65 
+2 | ROCK  WIN! Round Score: 7
+67 66 
+1 | PAPER  LOSS! Round Score: 2
+67 67 
+0 | SCISSORS  DRAW! Round Score: 6
+65 67 
+-2 | SCISSORS  LOSS! Round Score: 3
+65 65 
+0 | ROCK  DRAW! Round Score: 4
+65 66 
+-1 | PAPER  WIN! Round Score: 8
+67 65 
+2 | ROCK  WIN! Round Score: 7
+67 67 
+0 | SCISSORS  DRAW! Round Score: 6
+65 66 
+-1 | PAPER  WIN! Round Score: 8
+67 66 
+1 | PAPER  LOSS! Round Score: 2
+65 66 
+-1 | PAPER  WIN! Round Score: 8
+65 65 
+0 | ROCK  DRAW! Round Score: 4
+67 67 
+0 | SCISSORS  DRAW! Round Score: 6
+67 65 
+2 | ROCK  WIN! Round Score: 7
+67 67 
+0 | SCISSORS  DRAW! Round Score: 6
+67 65 
+2 | ROCK  WIN! Round Score: 7
+66 67 
+-1 | SCISSORS  WIN! Round Score: 9
+65 66 
+-1 | PAPER  WIN! Round Score: 8
+67 65 
+2 | ROCK  WIN! Round Score: 7
+65 65 
+0 | ROCK  DRAW! Round Score: 4
+67 65 
+2 | ROCK  WIN! Round Score: 7
+66 65 
+1 | ROCK  LOSS! Round Score: 1
+67 65 
+2 | ROCK  WIN! Round Score: 7
+65 65 
+0 | ROCK  DRAW! Round Score: 4
+67 65 
+2 | ROCK  WIN! Round Score: 7
+65 65 
+0 | ROCK  DRAW! Round Score: 4
+67 66 
+1 | PAPER  LOSS! Round Score: 2
+65 66 
+-1 | PAPER  WIN! Round Score: 8
+67 65 
+2 | ROCK  WIN! Round Score: 7
+65 66 
+-1 | PAPER  WIN! Round Score: 8
+67 65 
+2 | ROCK  WIN! Round Score: 7
+67 67 
+0 | SCISSORS  DRAW! Round Score: 6
+67 65 
+2 | ROCK  WIN! Round Score: 7
+66 67 
+-1 | SCISSORS  WIN! Round Score: 9
+65 65 
+0 | ROCK  DRAW! Round Score: 4
+67 67 
+0 | SCISSORS  DRAW! Round Score: 6
+65 65 
+0 | ROCK  DRAW! Round Score: 4
+67 67 
+0 | SCISSORS  DRAW! Round Score: 6
+67 67 
+0 | SCISSORS  DRAW! Round Score: 6
+67 66 
+1 | PAPER  LOSS! Round Score: 2
+67 67 
+0 | SCISSORS  DRAW! Round Score: 6
+67 66 
+1 | PAPER  LOSS! Round Score: 2
+67 65 
+2 | ROCK  WIN! Round Score: 7
+65 66 
+-1 | PAPER  WIN! Round Score: 8
+67 65 
+2 | ROCK  WIN! Round Score: 7
+65 65 
+0 | ROCK  DRAW! Round Score: 4
+67 67 
+0 | SCISSORS  DRAW! Round Score: 6
+67 65 
+2 | ROCK  WIN! Round Score: 7
+65 66 
+-1 | PAPER  WIN! Round Score: 8
+67 66 
+1 | PAPER  LOSS! Round Score: 2
+67 65 
+2 | ROCK  WIN! Round Score: 7
+67 65 
+2 | ROCK  WIN! Round Score: 7
+67 67 
+0 | SCISSORS  DRAW! Round Score: 6
+67 65 
+2 | ROCK  WIN! Round Score: 7
+67 66 
+1 | PAPER  LOSS! Round Score: 2
+67 65 
+2 | ROCK  WIN! Round Score: 7
+67 65 
+2 | ROCK  WIN! Round Score: 7
+67 65 
+2 | ROCK  WIN! Round Score: 7
+67 65 
+2 | ROCK  WIN! Round Score: 7
+65 66 
+-1 | PAPER  WIN! Round Score: 8
+65 66 
+-1 | PAPER  WIN! Round Score: 8
+65 66 
+-1 | PAPER  WIN! Round Score: 8
+67 67 
+0 | SCISSORS  DRAW! Round Score: 6
+67 65 
+2 | ROCK  WIN! Round Score: 7
+66 66 
+0 | PAPER  DRAW! Round Score: 5
+66 66 
+0 | PAPER  DRAW! Round Score: 5
+65 66 
+-1 | PAPER  WIN! Round Score: 8
+67 67 
+0 | SCISSORS  DRAW! Round Score: 6
+67 65 
+2 | ROCK  WIN! Round Score: 7
+65 66 
+-1 | PAPER  WIN! Round Score: 8
+67 67 
+0 | SCISSORS  DRAW! Round Score: 6
+67 66 
+1 | PAPER  LOSS! Round Score: 2
+67 65 
+2 | ROCK  WIN! Round Score: 7
+67 67 
+0 | SCISSORS  DRAW! Round Score: 6
+65 65 
+0 | ROCK  DRAW! Round Score: 4
+67 67 
+0 | SCISSORS  DRAW! Round Score: 6
+67 67 
+0 | SCISSORS  DRAW! Round Score: 6
+67 66 
+1 | PAPER  LOSS! Round Score: 2
+65 65 
+0 | ROCK  DRAW! Round Score: 4
+65 65 
+0 | ROCK  DRAW! Round Score: 4
+67 67 
+0 | SCISSORS  DRAW! Round Score: 6
+67 65 
+2 | ROCK  WIN! Round Score: 7
+67 65 
+2 | ROCK  WIN! Round Score: 7
+67 65 
+2 | ROCK  WIN! Round Score: 7
+67 67 
+0 | SCISSORS  DRAW! Round Score: 6
+67 67 
+0 | SCISSORS  DRAW! Round Score: 6
+65 66 
+-1 | PAPER  WIN! Round Score: 8
+67 66 
+1 | PAPER  LOSS! Round Score: 2
+65 65 
+0 | ROCK  DRAW! Round Score: 4
+66 67 
+-1 | SCISSORS  WIN! Round Score: 9
+67 67 
+0 | SCISSORS  DRAW! Round Score: 6
+67 66 
+1 | PAPER  LOSS! Round Score: 2
+67 67 
+0 | SCISSORS  DRAW! Round Score: 6
+65 65 
+0 | ROCK  DRAW! Round Score: 4
+67 67 
+0 | SCISSORS  DRAW! Round Score: 6
+67 65 
+2 | ROCK  WIN! Round Score: 7
+67 65 
+2 | ROCK  WIN! Round Score: 7
+65 66 
+-1 | PAPER  WIN! Round Score: 8
+67 67 
+0 | SCISSORS  DRAW! Round Score: 6
+67 65 
+2 | ROCK  WIN! Round Score: 7
+67 67 
+0 | SCISSORS  DRAW! Round Score: 6
+67 67 
+0 | SCISSORS  DRAW! Round Score: 6
+65 66 
+-1 | PAPER  WIN! Round Score: 8
+67 66 
+1 | PAPER  LOSS! Round Score: 2
+67 67 
+0 | SCISSORS  DRAW! Round Score: 6
+65 65 
+0 | ROCK  DRAW! Round Score: 4
+67 66 
+1 | PAPER  LOSS! Round Score: 2
+67 67 
+0 | SCISSORS  DRAW! Round Score: 6
+65 65 
+0 | ROCK  DRAW! Round Score: 4
+67 65 
+2 | ROCK  WIN! Round Score: 7
+65 65 
+0 | ROCK  DRAW! Round Score: 4
+67 65 
+2 | ROCK  WIN! Round Score: 7
+67 67 
+0 | SCISSORS  DRAW! Round Score: 6
+67 65 
+2 | ROCK  WIN! Round Score: 7
+67 67 
+0 | SCISSORS  DRAW! Round Score: 6
+67 67 
+0 | SCISSORS  DRAW! Round Score: 6
+67 66 
+1 | PAPER  LOSS! Round Score: 2
+67 66 
+1 | PAPER  LOSS! Round Score: 2
+65 66 
+-1 | PAPER  WIN! Round Score: 8
+67 66 
+1 | PAPER  LOSS! Round Score: 2
+65 65 
+0 | ROCK  DRAW! Round Score: 4
+67 66 
+1 | PAPER  LOSS! Round Score: 2
+67 65 
+2 | ROCK  WIN! Round Score: 7
+67 67 
+0 | SCISSORS  DRAW! Round Score: 6
+67 65 
+2 | ROCK  WIN! Round Score: 7
+65 65 
+0 | ROCK  DRAW! Round Score: 4
+67 65 
+2 | ROCK  WIN! Round Score: 7
+65 65 
+0 | ROCK  DRAW! Round Score: 4
+65 66 
+-1 | PAPER  WIN! Round Score: 8
+65 65 
+0 | ROCK  DRAW! Round Score: 4
+67 67 
+0 | SCISSORS  DRAW! Round Score: 6
+65 65 
+0 | ROCK  DRAW! Round Score: 4
+67 66 
+1 | PAPER  LOSS! Round Score: 2
+67 65 
+2 | ROCK  WIN! Round Score: 7
+65 66 
+-1 | PAPER  WIN! Round Score: 8
+67 67 
+0 | SCISSORS  DRAW! Round Score: 6
+67 67 
+0 | SCISSORS  DRAW! Round Score: 6
+67 65 
+2 | ROCK  WIN! Round Score: 7
+66 65 
+1 | ROCK  LOSS! Round Score: 1
+67 67 
+0 | SCISSORS  DRAW! Round Score: 6
+67 66 
+1 | PAPER  LOSS! Round Score: 2
+65 66 
+-1 | PAPER  WIN! Round Score: 8
+66 67 
+-1 | SCISSORS  WIN! Round Score: 9
+67 66 
+1 | PAPER  LOSS! Round Score: 2
+67 65 
+2 | ROCK  WIN! Round Score: 7
+66 67 
+-1 | SCISSORS  WIN! Round Score: 9
+67 65 
+2 | ROCK  WIN! Round Score: 7
+65 66 
+-1 | PAPER  WIN! Round Score: 8
+65 65 
+0 | ROCK  DRAW! Round Score: 4
+65 65 
+0 | ROCK  DRAW! Round Score: 4
+65 65 
+0 | ROCK  DRAW! Round Score: 4
+67 65 
+2 | ROCK  WIN! Round Score: 7
+65 65 
+0 | ROCK  DRAW! Round Score: 4
+67 65 
+2 | ROCK  WIN! Round Score: 7
+67 67 
+0 | SCISSORS  DRAW! Round Score: 6
+67 65 
+2 | ROCK  WIN! Round Score: 7
+65 65 
+0 | ROCK  DRAW! Round Score: 4
+67 66 
+1 | PAPER  LOSS! Round Score: 2
+65 66 
+-1 | PAPER  WIN! Round Score: 8
+67 65 
+2 | ROCK  WIN! Round Score: 7
+67 67 
+0 | SCISSORS  DRAW! Round Score: 6
+67 65 
+2 | ROCK  WIN! Round Score: 7
+67 67 
+0 | SCISSORS  DRAW! Round Score: 6
+67 66 
+1 | PAPER  LOSS! Round Score: 2
+67 65 
+2 | ROCK  WIN! Round Score: 7
+65 65 
+0 | ROCK  DRAW! Round Score: 4
+67 65 
+2 | ROCK  WIN! Round Score: 7
+67 66 
+1 | PAPER  LOSS! Round Score: 2
+65 66 
+-1 | PAPER  WIN! Round Score: 8
+65 65 
+0 | ROCK  DRAW! Round Score: 4
+66 67 
+-1 | SCISSORS  WIN! Round Score: 9
+67 66 
+1 | PAPER  LOSS! Round Score: 2
+66 67 
+-1 | SCISSORS  WIN! Round Score: 9
+67 66 
+1 | PAPER  LOSS! Round Score: 2
+67 65 
+2 | ROCK  WIN! Round Score: 7
+65 66 
+-1 | PAPER  WIN! Round Score: 8
+67 65 
+2 | ROCK  WIN! Round Score: 7
+67 67 
+0 | SCISSORS  DRAW! Round Score: 6
+67 65 
+2 | ROCK  WIN! Round Score: 7
+67 66 
+1 | PAPER  LOSS! Round Score: 2
+65 65 
+0 | ROCK  DRAW! Round Score: 4
+67 66 
+1 | PAPER  LOSS! Round Score: 2
+67 66 
+1 | PAPER  LOSS! Round Score: 2
+67 67 
+0 | SCISSORS  DRAW! Round Score: 6
+67 66 
+1 | PAPER  LOSS! Round Score: 2
+67 65 
+2 | ROCK  WIN! Round Score: 7
+67 67 
+0 | SCISSORS  DRAW! Round Score: 6
+67 65 
+2 | ROCK  WIN! Round Score: 7
+67 65 
+2 | ROCK  WIN! Round Score: 7
+67 65 
+2 | ROCK  WIN! Round Score: 7
+67 67 
+0 | SCISSORS  DRAW! Round Score: 6
+67 65 
+2 | ROCK  WIN! Round Score: 7
+65 66 
+-1 | PAPER  WIN! Round Score: 8
+65 66 
+-1 | PAPER  WIN! Round Score: 8
+67 65 
+2 | ROCK  WIN! Round Score: 7
+67 67 
+0 | SCISSORS  DRAW! Round Score: 6
+66 67 
+-1 | SCISSORS  WIN! Round Score: 9
+67 65 
+2 | ROCK  WIN! Round Score: 7
+67 66 
+1 | PAPER  LOSS! Round Score: 2
+67 65 
+2 | ROCK  WIN! Round Score: 7
+67 65 
+2 | ROCK  WIN! Round Score: 7
+67 67 
+0 | SCISSORS  DRAW! Round Score: 6
+67 67 
+0 | SCISSORS  DRAW! Round Score: 6
+67 65 
+2 | ROCK  WIN! Round Score: 7
+67 65 
+2 | ROCK  WIN! Round Score: 7
+65 67 
+-2 | SCISSORS  LOSS! Round Score: 3
+65 65 
+0 | ROCK  DRAW! Round Score: 4
+67 65 
+2 | ROCK  WIN! Round Score: 7
+66 67 
+-1 | SCISSORS  WIN! Round Score: 9
+67 67 
+0 | SCISSORS  DRAW! Round Score: 6
+67 66 
+1 | PAPER  LOSS! Round Score: 2
+67 67 
+0 | SCISSORS  DRAW! Round Score: 6
+67 65 
+2 | ROCK  WIN! Round Score: 7
+67 65 
+2 | ROCK  WIN! Round Score: 7
+67 65 
+2 | ROCK  WIN! Round Score: 7
+67 67 
+0 | SCISSORS  DRAW! Round Score: 6
+67 65 
+2 | ROCK  WIN! Round Score: 7
+65 65 
+0 | ROCK  DRAW! Round Score: 4
+65 65 
+0 | ROCK  DRAW! Round Score: 4
+67 67 
+0 | SCISSORS  DRAW! Round Score: 6
+67 65 
+2 | ROCK  WIN! Round Score: 7
+65 67 
+-2 | SCISSORS  LOSS! Round Score: 3
+67 65 
+2 | ROCK  WIN! Round Score: 7
+65 65 
+0 | ROCK  DRAW! Round Score: 4
+65 65 
+0 | ROCK  DRAW! Round Score: 4
+67 67 
+0 | SCISSORS  DRAW! Round Score: 6
+65 65 
+0 | ROCK  DRAW! Round Score: 4
+65 66 
+-1 | PAPER  WIN! Round Score: 8
+67 67 
+0 | SCISSORS  DRAW! Round Score: 6
+65 67 
+-2 | SCISSORS  LOSS! Round Score: 3
+65 66 
+-1 | PAPER  WIN! Round Score: 8
+67 66 
+1 | PAPER  LOSS! Round Score: 2
+67 65 
+2 | ROCK  WIN! Round Score: 7
+65 66 
+-1 | PAPER  WIN! Round Score: 8
+65 65 
+0 | ROCK  DRAW! Round Score: 4
+67 67 
+0 | SCISSORS  DRAW! Round Score: 6
+67 65 
+2 | ROCK  WIN! Round Score: 7
+65 66 
+-1 | PAPER  WIN! Round Score: 8
+66 67 
+-1 | SCISSORS  WIN! Round Score: 9
+67 67 
+0 | SCISSORS  DRAW! Round Score: 6
+65 65 
+0 | ROCK  DRAW! Round Score: 4
+67 67 
+0 | SCISSORS  DRAW! Round Score: 6
+67 65 
+2 | ROCK  WIN! Round Score: 7
+65 65 
+0 | ROCK  DRAW! Round Score: 4
+65 66 
+-1 | PAPER  WIN! Round Score: 8
+67 67 
+0 | SCISSORS  DRAW! Round Score: 6
+67 66 
+1 | PAPER  LOSS! Round Score: 2
+67 67 
+0 | SCISSORS  DRAW! Round Score: 6
+67 67 
+0 | SCISSORS  DRAW! Round Score: 6
+66 67 
+-1 | SCISSORS  WIN! Round Score: 9
+67 65 
+2 | ROCK  WIN! Round Score: 7
+67 67 
+0 | SCISSORS  DRAW! Round Score: 6
+67 67 
+0 | SCISSORS  DRAW! Round Score: 6
+67 66 
+1 | PAPER  LOSS! Round Score: 2
+67 65 
+2 | ROCK  WIN! Round Score: 7
+67 67 
+0 | SCISSORS  DRAW! Round Score: 6
+67 65 
+2 | ROCK  WIN! Round Score: 7
+67 65 
+2 | ROCK  WIN! Round Score: 7
+66 67 
+-1 | SCISSORS  WIN! Round Score: 9
+66 67 
+-1 | SCISSORS  WIN! Round Score: 9
+65 66 
+-1 | PAPER  WIN! Round Score: 8
+66 65 
+1 | ROCK  LOSS! Round Score: 1
+66 67 
+-1 | SCISSORS  WIN! Round Score: 9
+67 67 
+0 | SCISSORS  DRAW! Round Score: 6
+65 67 
+-2 | SCISSORS  LOSS! Round Score: 3
+67 66 
+1 | PAPER  LOSS! Round Score: 2
+67 65 
+2 | ROCK  WIN! Round Score: 7
+67 67 
+0 | SCISSORS  DRAW! Round Score: 6
+67 65 
+2 | ROCK  WIN! Round Score: 7
+67 65 
+2 | ROCK  WIN! Round Score: 7
+65 65 
+0 | ROCK  DRAW! Round Score: 4
+67 65 
+2 | ROCK  WIN! Round Score: 7
+65 66 
+-1 | PAPER  WIN! Round Score: 8
+66 65 
+1 | ROCK  LOSS! Round Score: 1
+67 67 
+0 | SCISSORS  DRAW! Round Score: 6
+67 66 
+1 | PAPER  LOSS! Round Score: 2
+67 65 
+2 | ROCK  WIN! Round Score: 7
+67 67 
+0 | SCISSORS  DRAW! Round Score: 6
+67 66 
+1 | PAPER  LOSS! Round Score: 2
+67 66 
+1 | PAPER  LOSS! Round Score: 2
+67 65 
+2 | ROCK  WIN! Round Score: 7
+66 67 
+-1 | SCISSORS  WIN! Round Score: 9
+67 65 
+2 | ROCK  WIN! Round Score: 7
+66 67 
+-1 | SCISSORS  WIN! Round Score: 9
+67 66 
+1 | PAPER  LOSS! Round Score: 2
+67 66 
+1 | PAPER  LOSS! Round Score: 2
+67 66 
+1 | PAPER  LOSS! Round Score: 2
+67 65 
+2 | ROCK  WIN! Round Score: 7
+67 65 
+2 | ROCK  WIN! Round Score: 7
+65 65 
+0 | ROCK  DRAW! Round Score: 4
+65 65 
+0 | ROCK  DRAW! Round Score: 4
+65 65 
+0 | ROCK  DRAW! Round Score: 4
+67 67 
+0 | SCISSORS  DRAW! Round Score: 6
+65 65 
+0 | ROCK  DRAW! Round Score: 4
+67 67 
+0 | SCISSORS  DRAW! Round Score: 6
+67 65 
+2 | ROCK  WIN! Round Score: 7
+67 66 
+1 | PAPER  LOSS! Round Score: 2
+67 67 
+0 | SCISSORS  DRAW! Round Score: 6
+67 66 
+1 | PAPER  LOSS! Round Score: 2
+65 66 
+-1 | PAPER  WIN! Round Score: 8
+67 66 
+1 | PAPER  LOSS! Round Score: 2
+65 65 
+0 | ROCK  DRAW! Round Score: 4
+65 66 
+-1 | PAPER  WIN! Round Score: 8
+67 66 
+1 | PAPER  LOSS! Round Score: 2
+67 67 
+0 | SCISSORS  DRAW! Round Score: 6
+67 67 
+0 | SCISSORS  DRAW! Round Score: 6
+65 66 
+-1 | PAPER  WIN! Round Score: 8
+67 65 
+2 | ROCK  WIN! Round Score: 7
+67 65 
+2 | ROCK  WIN! Round Score: 7
+65 65 
+0 | ROCK  DRAW! Round Score: 4
+67 66 
+1 | PAPER  LOSS! Round Score: 2
+67 65 
+2 | ROCK  WIN! Round Score: 7
+67 66 
+1 | PAPER  LOSS! Round Score: 2
+65 65 
+0 | ROCK  DRAW! Round Score: 4
+67 65 
+2 | ROCK  WIN! Round Score: 7
+67 66 
+1 | PAPER  LOSS! Round Score: 2
+67 67 
+0 | SCISSORS  DRAW! Round Score: 6
+67 67 
+0 | SCISSORS  DRAW! Round Score: 6
+66 67 
+-1 | SCISSORS  WIN! Round Score: 9
+65 66 
+-1 | PAPER  WIN! Round Score: 8
+67 65 
+2 | ROCK  WIN! Round Score: 7
+66 67 
+-1 | SCISSORS  WIN! Round Score: 9
+67 66 
+1 | PAPER  LOSS! Round Score: 2
+65 65 
+0 | ROCK  DRAW! Round Score: 4
+67 67 
+0 | SCISSORS  DRAW! Round Score: 6
+67 65 
+2 | ROCK  WIN! Round Score: 7
+67 67 
+0 | SCISSORS  DRAW! Round Score: 6
+66 65 
+1 | ROCK  LOSS! Round Score: 1
+67 67 
+0 | SCISSORS  DRAW! Round Score: 6
+67 67 
+0 | SCISSORS  DRAW! Round Score: 6
+67 67 
+0 | SCISSORS  DRAW! Round Score: 6
+67 65 
+2 | ROCK  WIN! Round Score: 7
+67 67 
+0 | SCISSORS  DRAW! Round Score: 6
+67 67 
+0 | SCISSORS  DRAW! Round Score: 6
+67 65 
+2 | ROCK  WIN! Round Score: 7
+67 67 
+0 | SCISSORS  DRAW! Round Score: 6
+67 67 
+0 | SCISSORS  DRAW! Round Score: 6
+66 65 
+1 | ROCK  LOSS! Round Score: 1
+65 65 
+0 | ROCK  DRAW! Round Score: 4
+67 66 
+1 | PAPER  LOSS! Round Score: 2
+67 67 
+0 | SCISSORS  DRAW! Round Score: 6
+65 66 
+-1 | PAPER  WIN! Round Score: 8
+67 66 
+1 | PAPER  LOSS! Round Score: 2
+67 67 
+0 | SCISSORS  DRAW! Round Score: 6
+67 67 
+0 | SCISSORS  DRAW! Round Score: 6
+67 65 
+2 | ROCK  WIN! Round Score: 7
+65 66 
+-1 | PAPER  WIN! Round Score: 8
+65 65 
+0 | ROCK  DRAW! Round Score: 4
+67 66 
+1 | PAPER  LOSS! Round Score: 2
+67 66 
+1 | PAPER  LOSS! Round Score: 2
+65 66 
+-1 | PAPER  WIN! Round Score: 8
+67 67 
+0 | SCISSORS  DRAW! Round Score: 6
+67 65 
+2 | ROCK  WIN! Round Score: 7
+67 65 
+2 | ROCK  WIN! Round Score: 7
+67 65 
+2 | ROCK  WIN! Round Score: 7
+65 66 
+-1 | PAPER  WIN! Round Score: 8
+67 65 
+2 | ROCK  WIN! Round Score: 7
+66 65 
+1 | ROCK  LOSS! Round Score: 1
+67 67 
+0 | SCISSORS  DRAW! Round Score: 6
+67 67 
+0 | SCISSORS  DRAW! Round Score: 6
+67 65 
+2 | ROCK  WIN! Round Score: 7
+67 67 
+0 | SCISSORS  DRAW! Round Score: 6
+67 65 
+2 | ROCK  WIN! Round Score: 7
+65 66 
+-1 | PAPER  WIN! Round Score: 8
+65 67 
+-2 | SCISSORS  LOSS! Round Score: 3
+67 67 
+0 | SCISSORS  DRAW! Round Score: 6
+67 67 
+0 | SCISSORS  DRAW! Round Score: 6
+66 65 
+1 | ROCK  LOSS! Round Score: 1
+67 66 
+1 | PAPER  LOSS! Round Score: 2
+65 67 
+-2 | SCISSORS  LOSS! Round Score: 3
+65 66 
+-1 | PAPER  WIN! Round Score: 8
+67 67 
+0 | SCISSORS  DRAW! Round Score: 6
+67 65 
+2 | ROCK  WIN! Round Score: 7
+67 67 
+0 | SCISSORS  DRAW! Round Score: 6
+67 65 
+2 | ROCK  WIN! Round Score: 7
+65 65 
+0 | ROCK  DRAW! Round Score: 4
+65 66 
+-1 | PAPER  WIN! Round Score: 8
+67 66 
+1 | PAPER  LOSS! Round Score: 2
+65 65 
+0 | ROCK  DRAW! Round Score: 4
+67 67 
+0 | SCISSORS  DRAW! Round Score: 6
+67 65 
+2 | ROCK  WIN! Round Score: 7
+67 67 
+0 | SCISSORS  DRAW! Round Score: 6
+66 65 
+1 | ROCK  LOSS! Round Score: 1
+67 65 
+2 | ROCK  WIN! Round Score: 7
+67 67 
+0 | SCISSORS  DRAW! Round Score: 6
+66 67 
+-1 | SCISSORS  WIN! Round Score: 9
+67 67 
+0 | SCISSORS  DRAW! Round Score: 6
+67 66 
+1 | PAPER  LOSS! Round Score: 2
+67 66 
+1 | PAPER  LOSS! Round Score: 2
+65 65 
+0 | ROCK  DRAW! Round Score: 4
+67 67 
+0 | SCISSORS  DRAW! Round Score: 6
+67 65 
+2 | ROCK  WIN! Round Score: 7
+67 66 
+1 | PAPER  LOSS! Round Score: 2
+67 67 
+0 | SCISSORS  DRAW! Round Score: 6
+67 67 
+0 | SCISSORS  DRAW! Round Score: 6
+65 66 
+-1 | PAPER  WIN! Round Score: 8
+67 67 
+0 | SCISSORS  DRAW! Round Score: 6
+67 66 
+1 | PAPER  LOSS! Round Score: 2
+67 66 
+1 | PAPER  LOSS! Round Score: 2
+65 65 
+0 | ROCK  DRAW! Round Score: 4
+66 67 
+-1 | SCISSORS  WIN! Round Score: 9
+67 67 
+0 | SCISSORS  DRAW! Round Score: 6
+65 65 
+0 | ROCK  DRAW! Round Score: 4
+67 66 
+1 | PAPER  LOSS! Round Score: 2
+67 66 
+1 | PAPER  LOSS! Round Score: 2
+67 67 
+0 | SCISSORS  DRAW! Round Score: 6
+65 65 
+0 | ROCK  DRAW! Round Score: 4
+67 65 
+2 | ROCK  WIN! Round Score: 7
+67 67 
+0 | SCISSORS  DRAW! Round Score: 6
+67 65 
+2 | ROCK  WIN! Round Score: 7
+67 65 
+2 | ROCK  WIN! Round Score: 7
+67 67 
+0 | SCISSORS  DRAW! Round Score: 6
+67 66 
+1 | PAPER  LOSS! Round Score: 2
+67 65 
+2 | ROCK  WIN! Round Score: 7
+67 67 
+0 | SCISSORS  DRAW! Round Score: 6
+66 67 
+-1 | SCISSORS  WIN! Round Score: 9
+67 66 
+1 | PAPER  LOSS! Round Score: 2
+65 65 
+0 | ROCK  DRAW! Round Score: 4
+65 65 
+0 | ROCK  DRAW! Round Score: 4
+67 65 
+2 | ROCK  WIN! Round Score: 7
+67 67 
+0 | SCISSORS  DRAW! Round Score: 6
+65 65 
+0 | ROCK  DRAW! Round Score: 4
+67 65 
+2 | ROCK  WIN! Round Score: 7
+66 67 
+-1 | SCISSORS  WIN! Round Score: 9
+67 66 
+1 | PAPER  LOSS! Round Score: 2
+67 67 
+0 | SCISSORS  DRAW! Round Score: 6
+67 66 
+1 | PAPER  LOSS! Round Score: 2
+67 65 
+2 | ROCK  WIN! Round Score: 7
+67 67 
+0 | SCISSORS  DRAW! Round Score: 6
+66 66 
+0 | PAPER  DRAW! Round Score: 5
+67 65 
+2 | ROCK  WIN! Round Score: 7
+67 67 
+0 | SCISSORS  DRAW! Round Score: 6
+65 65 
+0 | ROCK  DRAW! Round Score: 4
+67 65 
+2 | ROCK  WIN! Round Score: 7
+65 65 
+0 | ROCK  DRAW! Round Score: 4
+67 65 
+2 | ROCK  WIN! Round Score: 7
+67 67 
+0 | SCISSORS  DRAW! Round Score: 6
+66 67 
+-1 | SCISSORS  WIN! Round Score: 9
+67 67 
+0 | SCISSORS  DRAW! Round Score: 6
+67 67 
+0 | SCISSORS  DRAW! Round Score: 6
+65 67 
+-2 | SCISSORS  LOSS! Round Score: 3
+67 66 
+1 | PAPER  LOSS! Round Score: 2
+67 65 
+2 | ROCK  WIN! Round Score: 7
+65 65 
+0 | ROCK  DRAW! Round Score: 4
+67 67 
+0 | SCISSORS  DRAW! Round Score: 6
+65 65 
+0 | ROCK  DRAW! Round Score: 4
+65 66 
+-1 | PAPER  WIN! Round Score: 8
+67 65 
+2 | ROCK  WIN! Round Score: 7
+67 67 
+0 | SCISSORS  DRAW! Round Score: 6
+67 66 
+1 | PAPER  LOSS! Round Score: 2
+65 66 
+-1 | PAPER  WIN! Round Score: 8
+67 66 
+1 | PAPER  LOSS! Round Score: 2
+67 65 
+2 | ROCK  WIN! Round Score: 7
+65 65 
+0 | ROCK  DRAW! Round Score: 4
+67 65 
+2 | ROCK  WIN! Round Score: 7
+67 66 
+1 | PAPER  LOSS! Round Score: 2
+67 65 
+2 | ROCK  WIN! Round Score: 7
+67 65 
+2 | ROCK  WIN! Round Score: 7
+67 67 
+0 | SCISSORS  DRAW! Round Score: 6
+67 67 
+0 | SCISSORS  DRAW! Round Score: 6
+67 65 
+2 | ROCK  WIN! Round Score: 7
+67 67 
+0 | SCISSORS  DRAW! Round Score: 6
+65 65 
+0 | ROCK  DRAW! Round Score: 4
+65 65 
+0 | ROCK  DRAW! Round Score: 4
+67 65 
+2 | ROCK  WIN! Round Score: 7
+67 67 
+0 | SCISSORS  DRAW! Round Score: 6
+66 67 
+-1 | SCISSORS  WIN! Round Score: 9
+65 65 
+0 | ROCK  DRAW! Round Score: 4
+67 65 
+2 | ROCK  WIN! Round Score: 7
+67 67 
+0 | SCISSORS  DRAW! Round Score: 6
+67 66 
+1 | PAPER  LOSS! Round Score: 2
+67 65 
+2 | ROCK  WIN! Round Score: 7
+66 67 
+-1 | SCISSORS  WIN! Round Score: 9
+67 65 
+2 | ROCK  WIN! Round Score: 7
+67 65 
+2 | ROCK  WIN! Round Score: 7
+67 65 
+2 | ROCK  WIN! Round Score: 7
+66 65 
+1 | ROCK  LOSS! Round Score: 1
+67 66 
+1 | PAPER  LOSS! Round Score: 2
+65 66 
+-1 | PAPER  WIN! Round Score: 8
+67 67 
+0 | SCISSORS  DRAW! Round Score: 6
+65 67 
+-2 | SCISSORS  LOSS! Round Score: 3
+65 66 
+-1 | PAPER  WIN! Round Score: 8
+65 66 
+-1 | PAPER  WIN! Round Score: 8
+67 66 
+1 | PAPER  LOSS! Round Score: 2
+66 67 
+-1 | SCISSORS  WIN! Round Score: 9
+67 67 
+0 | SCISSORS  DRAW! Round Score: 6
+67 66 
+1 | PAPER  LOSS! Round Score: 2
+67 65 
+2 | ROCK  WIN! Round Score: 7
+67 67 
+0 | SCISSORS  DRAW! Round Score: 6
+67 65 
+2 | ROCK  WIN! Round Score: 7
+66 67 
+-1 | SCISSORS  WIN! Round Score: 9
+66 65 
+1 | ROCK  LOSS! Round Score: 1
+65 65 
+0 | ROCK  DRAW! Round Score: 4
+65 67 
+-2 | SCISSORS  LOSS! Round Score: 3
+65 66 
+-1 | PAPER  WIN! Round Score: 8
+67 67 
+0 | SCISSORS  DRAW! Round Score: 6
+67 66 
+1 | PAPER  LOSS! Round Score: 2
+67 66 
+1 | PAPER  LOSS! Round Score: 2
+67 65 
+2 | ROCK  WIN! Round Score: 7
+66 66 
+0 | PAPER  DRAW! Round Score: 5
+67 66 
+1 | PAPER  LOSS! Round Score: 2
+67 65 
+2 | ROCK  WIN! Round Score: 7
+67 65 
+2 | ROCK  WIN! Round Score: 7
+66 65 
+1 | ROCK  LOSS! Round Score: 1
+67 66 
+1 | PAPER  LOSS! Round Score: 2
+67 67 
+0 | SCISSORS  DRAW! Round Score: 6
+66 67 
+-1 | SCISSORS  WIN! Round Score: 9
+67 65 
+2 | ROCK  WIN! Round Score: 7
+67 66 
+1 | PAPER  LOSS! Round Score: 2
+65 66 
+-1 | PAPER  WIN! Round Score: 8
+67 67 
+0 | SCISSORS  DRAW! Round Score: 6
+67 65 
+2 | ROCK  WIN! Round Score: 7
+67 67 
+0 | SCISSORS  DRAW! Round Score: 6
+65 65 
+0 | ROCK  DRAW! Round Score: 4
+67 67 
+0 | SCISSORS  DRAW! Round Score: 6
+65 65 
+0 | ROCK  DRAW! Round Score: 4
+65 66 
+-1 | PAPER  WIN! Round Score: 8
+67 66 
+1 | PAPER  LOSS! Round Score: 2
+65 66 
+-1 | PAPER  WIN! Round Score: 8
+67 66 
+1 | PAPER  LOSS! Round Score: 2
+67 67 
+0 | SCISSORS  DRAW! Round Score: 6
+65 65 
+0 | ROCK  DRAW! Round Score: 4
+67 66 
+1 | PAPER  LOSS! Round Score: 2
+67 66 
+1 | PAPER  LOSS! Round Score: 2
+67 65 
+2 | ROCK  WIN! Round Score: 7
+66 65 
+1 | ROCK  LOSS! Round Score: 1
+67 67 
+0 | SCISSORS  DRAW! Round Score: 6
+67 65 
+2 | ROCK  WIN! Round Score: 7
+67 67 
+0 | SCISSORS  DRAW! Round Score: 6
+67 67 
+0 | SCISSORS  DRAW! Round Score: 6
+67 67 
+0 | SCISSORS  DRAW! Round Score: 6
+67 65 
+2 | ROCK  WIN! Round Score: 7
+67 67 
+0 | SCISSORS  DRAW! Round Score: 6
+67 66 
+1 | PAPER  LOSS! Round Score: 2
+67 65 
+2 | ROCK  WIN! Round Score: 7
+67 66 
+1 | PAPER  LOSS! Round Score: 2
+67 65 
+2 | ROCK  WIN! Round Score: 7
+67 65 
+2 | ROCK  WIN! Round Score: 7
+67 65 
+2 | ROCK  WIN! Round Score: 7
+67 65 
+2 | ROCK  WIN! Round Score: 7
+65 66 
+-1 | PAPER  WIN! Round Score: 8
+67 65 
+2 | ROCK  WIN! Round Score: 7
+65 66 
+-1 | PAPER  WIN! Round Score: 8
+67 65 
+2 | ROCK  WIN! Round Score: 7
+67 67 
+0 | SCISSORS  DRAW! Round Score: 6
+65 65 
+0 | ROCK  DRAW! Round Score: 4
+65 67 
+-2 | SCISSORS  LOSS! Round Score: 3
+67 67 
+0 | SCISSORS  DRAW! Round Score: 6
+67 65 
+2 | ROCK  WIN! Round Score: 7
+67 65 
+2 | ROCK  WIN! Round Score: 7
+67 65 
+2 | ROCK  WIN! Round Score: 7
+67 65 
+2 | ROCK  WIN! Round Score: 7
+66 67 
+-1 | SCISSORS  WIN! Round Score: 9
+67 67 
+0 | SCISSORS  DRAW! Round Score: 6
+67 67 
+0 | SCISSORS  DRAW! Round Score: 6
+67 66 
+1 | PAPER  LOSS! Round Score: 2
+67 65 
+2 | ROCK  WIN! Round Score: 7
+67 67 
+0 | SCISSORS  DRAW! Round Score: 6
+67 65 
+2 | ROCK  WIN! Round Score: 7
+66 67 
+-1 | SCISSORS  WIN! Round Score: 9
+66 67 
+-1 | SCISSORS  WIN! Round Score: 9
+67 67 
+0 | SCISSORS  DRAW! Round Score: 6
+67 67 
+0 | SCISSORS  DRAW! Round Score: 6
+67 65 
+2 | ROCK  WIN! Round Score: 7
+67 65 
+2 | ROCK  WIN! Round Score: 7
+67 67 
+0 | SCISSORS  DRAW! Round Score: 6
+66 67 
+-1 | SCISSORS  WIN! Round Score: 9
+67 65 
+2 | ROCK  WIN! Round Score: 7
+65 66 
+-1 | PAPER  WIN! Round Score: 8
+67 65 
+2 | ROCK  WIN! Round Score: 7
+67 67 
+0 | SCISSORS  DRAW! Round Score: 6
+67 65 
+2 | ROCK  WIN! Round Score: 7
+67 66 
+1 | PAPER  LOSS! Round Score: 2
+67 67 
+0 | SCISSORS  DRAW! Round Score: 6
+67 67 
+0 | SCISSORS  DRAW! Round Score: 6
+67 65 
+2 | ROCK  WIN! Round Score: 7
+67 67 
+0 | SCISSORS  DRAW! Round Score: 6
+65 66 
+-1 | PAPER  WIN! Round Score: 8
+65 66 
+-1 | PAPER  WIN! Round Score: 8
+67 65 
+2 | ROCK  WIN! Round Score: 7
+67 67 
+0 | SCISSORS  DRAW! Round Score: 6
+67 67 
+0 | SCISSORS  DRAW! Round Score: 6
+67 65 
+2 | ROCK  WIN! Round Score: 7
+67 65 
+2 | ROCK  WIN! Round Score: 7
+66 67 
+-1 | SCISSORS  WIN! Round Score: 9
+67 65 
+2 | ROCK  WIN! Round Score: 7
+67 67 
+0 | SCISSORS  DRAW! Round Score: 6
+67 67 
+0 | SCISSORS  DRAW! Round Score: 6
+67 65 
+2 | ROCK  WIN! Round Score: 7
+67 67 
+0 | SCISSORS  DRAW! Round Score: 6
+65 65 
+0 | ROCK  DRAW! Round Score: 4
+67 67 
+0 | SCISSORS  DRAW! Round Score: 6
+66 67 
+-1 | SCISSORS  WIN! Round Score: 9
+67 67 
+0 | SCISSORS  DRAW! Round Score: 6
+65 66 
+-1 | PAPER  WIN! Round Score: 8
+67 67 
+0 | SCISSORS  DRAW! Round Score: 6
+67 65 
+2 | ROCK  WIN! Round Score: 7
+67 65 
+2 | ROCK  WIN! Round Score: 7
+66 67 
+-1 | SCISSORS  WIN! Round Score: 9
+65 66 
+-1 | PAPER  WIN! Round Score: 8
+67 67 
+0 | SCISSORS  DRAW! Round Score: 6
+65 66 
+-1 | PAPER  WIN! Round Score: 8
+67 66 
+1 | PAPER  LOSS! Round Score: 2
+65 67 
+-2 | SCISSORS  LOSS! Round Score: 3
+67 65 
+2 | ROCK  WIN! Round Score: 7
+65 65 
+0 | ROCK  DRAW! Round Score: 4
+67 65 
+2 | ROCK  WIN! Round Score: 7
+65 66 
+-1 | PAPER  WIN! Round Score: 8
+67 67 
+0 | SCISSORS  DRAW! Round Score: 6
+67 65 
+2 | ROCK  WIN! Round Score: 7
+67 67 
+0 | SCISSORS  DRAW! Round Score: 6
+67 67 
+0 | SCISSORS  DRAW! Round Score: 6
+67 65 
+2 | ROCK  WIN! Round Score: 7
+67 67 
+0 | SCISSORS  DRAW! Round Score: 6
+65 65 
+0 | ROCK  DRAW! Round Score: 4
+66 67 
+-1 | SCISSORS  WIN! Round Score: 9
+67 66 
+1 | PAPER  LOSS! Round Score: 2
+67 67 
+0 | SCISSORS  DRAW! Round Score: 6
+67 67 
+0 | SCISSORS  DRAW! Round Score: 6
+67 65 
+2 | ROCK  WIN! Round Score: 7
+67 67 
+0 | SCISSORS  DRAW! Round Score: 6
+66 67 
+-1 | SCISSORS  WIN! Round Score: 9
+67 66 
+1 | PAPER  LOSS! Round Score: 2
+67 67 
+0 | SCISSORS  DRAW! Round Score: 6
+67 67 
+0 | SCISSORS  DRAW! Round Score: 6
+65 65 
+0 | ROCK  DRAW! Round Score: 4
+66 67 
+-1 | SCISSORS  WIN! Round Score: 9
+65 65 
+0 | ROCK  DRAW! Round Score: 4
+66 67 
+-1 | SCISSORS  WIN! Round Score: 9
+67 65 
+2 | ROCK  WIN! Round Score: 7
+67 67 
+0 | SCISSORS  DRAW! Round Score: 6
+65 67 
+-2 | SCISSORS  LOSS! Round Score: 3
+65 67 
+-2 | SCISSORS  LOSS! Round Score: 3
+67 65 
+2 | ROCK  WIN! Round Score: 7
+65 65 
+0 | ROCK  DRAW! Round Score: 4
+65 65 
+0 | ROCK  DRAW! Round Score: 4
+66 67 
+-1 | SCISSORS  WIN! Round Score: 9
+65 66 
+-1 | PAPER  WIN! Round Score: 8
+65 66 
+-1 | PAPER  WIN! Round Score: 8
+65 67 
+-2 | SCISSORS  LOSS! Round Score: 3
+67 65 
+2 | ROCK  WIN! Round Score: 7
+67 67 
+0 | SCISSORS  DRAW! Round Score: 6
+67 67 
+0 | SCISSORS  DRAW! Round Score: 6
+67 65 
+2 | ROCK  WIN! Round Score: 7
+67 65 
+2 | ROCK  WIN! Round Score: 7
+67 65 
+2 | ROCK  WIN! Round Score: 7
+65 65 
+0 | ROCK  DRAW! Round Score: 4
+67 65 
+2 | ROCK  WIN! Round Score: 7
+67 67 
+0 | SCISSORS  DRAW! Round Score: 6
+67 66 
+1 | PAPER  LOSS! Round Score: 2
+67 67 
+0 | SCISSORS  DRAW! Round Score: 6
+67 65 
+2 | ROCK  WIN! Round Score: 7
+67 67 
+0 | SCISSORS  DRAW! Round Score: 6
+67 65 
+2 | ROCK  WIN! Round Score: 7
+65 65 
+0 | ROCK  DRAW! Round Score: 4
+65 66 
+-1 | PAPER  WIN! Round Score: 8
+67 65 
+2 | ROCK  WIN! Round Score: 7
+65 65 
+0 | ROCK  DRAW! Round Score: 4
+67 65 
+2 | ROCK  WIN! Round Score: 7
+66 67 
+-1 | SCISSORS  WIN! Round Score: 9
+66 67 
+-1 | SCISSORS  WIN! Round Score: 9
+66 65 
+1 | ROCK  LOSS! Round Score: 1
+67 65 
+2 | ROCK  WIN! Round Score: 7
+65 65 
+0 | ROCK  DRAW! Round Score: 4
+66 65 
+1 | ROCK  LOSS! Round Score: 1
+67 65 
+2 | ROCK  WIN! Round Score: 7
+65 66 
+-1 | PAPER  WIN! Round Score: 8
+67 67 
+0 | SCISSORS  DRAW! Round Score: 6
+67 66 
+1 | PAPER  LOSS! Round Score: 2
+67 67 
+0 | SCISSORS  DRAW! Round Score: 6
+67 65 
+2 | ROCK  WIN! Round Score: 7
+65 65 
+0 | ROCK  DRAW! Round Score: 4
+65 66 
+-1 | PAPER  WIN! Round Score: 8
+67 67 
+0 | SCISSORS  DRAW! Round Score: 6
+66 67 
+-1 | SCISSORS  WIN! Round Score: 9
+67 65 
+2 | ROCK  WIN! Round Score: 7
+66 67 
+-1 | SCISSORS  WIN! Round Score: 9
+67 67 
+0 | SCISSORS  DRAW! Round Score: 6
+66 67 
+-1 | SCISSORS  WIN! Round Score: 9
+65 65 
+0 | ROCK  DRAW! Round Score: 4
+65 65 
+0 | ROCK  DRAW! Round Score: 4
+67 66 
+1 | PAPER  LOSS! Round Score: 2
+66 67 
+-1 | SCISSORS  WIN! Round Score: 9
+67 65 
+2 | ROCK  WIN! Round Score: 7
+66 67 
+-1 | SCISSORS  WIN! Round Score: 9
+65 66 
+-1 | PAPER  WIN! Round Score: 8
+67 67 
+0 | SCISSORS  DRAW! Round Score: 6
+65 66 
+-1 | PAPER  WIN! Round Score: 8
+67 67 
+0 | SCISSORS  DRAW! Round Score: 6
+67 65 
+2 | ROCK  WIN! Round Score: 7
+65 67 
+-2 | SCISSORS  LOSS! Round Score: 3
+67 67 
+0 | SCISSORS  DRAW! Round Score: 6
+67 67 
+0 | SCISSORS  DRAW! Round Score: 6
+66 67 
+-1 | SCISSORS  WIN! Round Score: 9
+65 66 
+-1 | PAPER  WIN! Round Score: 8
+66 67 
+-1 | SCISSORS  WIN! Round Score: 9
+67 66 
+1 | PAPER  LOSS! Round Score: 2
+67 65 
+2 | ROCK  WIN! Round Score: 7
+65 66 
+-1 | PAPER  WIN! Round Score: 8
+65 65 
+0 | ROCK  DRAW! Round Score: 4
+65 65 
+0 | ROCK  DRAW! Round Score: 4
+67 65 
+2 | ROCK  WIN! Round Score: 7
+67 66 
+1 | PAPER  LOSS! Round Score: 2
+66 67 
+-1 | SCISSORS  WIN! Round Score: 9
+67 65 
+2 | ROCK  WIN! Round Score: 7
+67 67 
+0 | SCISSORS  DRAW! Round Score: 6
+67 67 
+0 | SCISSORS  DRAW! Round Score: 6
+65 65 
+0 | ROCK  DRAW! Round Score: 4
+65 66 
+-1 | PAPER  WIN! Round Score: 8
+67 65 
+2 | ROCK  WIN! Round Score: 7
+67 66 
+1 | PAPER  LOSS! Round Score: 2
+66 67 
+-1 | SCISSORS  WIN! Round Score: 9
+67 67 
+0 | SCISSORS  DRAW! Round Score: 6
+67 65 
+2 | ROCK  WIN! Round Score: 7
+65 65 
+0 | ROCK  DRAW! Round Score: 4
+67 67 
+0 | SCISSORS  DRAW! Round Score: 6
+67 65 
+2 | ROCK  WIN! Round Score: 7
+67 65 
+2 | ROCK  WIN! Round Score: 7
+66 67 
+-1 | SCISSORS  WIN! Round Score: 9
+67 66 
+1 | PAPER  LOSS! Round Score: 2
+65 66 
+-1 | PAPER  WIN! Round Score: 8
+65 65 
+0 | ROCK  DRAW! Round Score: 4
+67 67 
+0 | SCISSORS  DRAW! Round Score: 6
+66 67 
+-1 | SCISSORS  WIN! Round Score: 9
+67 65 
+2 | ROCK  WIN! Round Score: 7
+67 67 
+0 | SCISSORS  DRAW! Round Score: 6
+65 66 
+-1 | PAPER  WIN! Round Score: 8
+67 65 
+2 | ROCK  WIN! Round Score: 7
+66 67 
+-1 | SCISSORS  WIN! Round Score: 9
+67 66 
+1 | PAPER  LOSS! Round Score: 2
+66 65 
+1 | ROCK  LOSS! Round Score: 1
+67 65 
+2 | ROCK  WIN! Round Score: 7
+67 65 
+2 | ROCK  WIN! Round Score: 7
+67 66 
+1 | PAPER  LOSS! Round Score: 2
+65 66 
+-1 | PAPER  WIN! Round Score: 8
+65 65 
+0 | ROCK  DRAW! Round Score: 4
+67 66 
+1 | PAPER  LOSS! Round Score: 2
+67 66 
+1 | PAPER  LOSS! Round Score: 2
+67 67 
+0 | SCISSORS  DRAW! Round Score: 6
+67 66 
+1 | PAPER  LOSS! Round Score: 2
+67 66 
+1 | PAPER  LOSS! Round Score: 2
+67 65 
+2 | ROCK  WIN! Round Score: 7
+66 65 
+1 | ROCK  LOSS! Round Score: 1
+67 65 
+2 | ROCK  WIN! Round Score: 7
+65 66 
+-1 | PAPER  WIN! Round Score: 8
+67 67 
+0 | SCISSORS  DRAW! Round Score: 6
+67 67 
+0 | SCISSORS  DRAW! Round Score: 6
+65 66 
+-1 | PAPER  WIN! Round Score: 8
+67 67 
+0 | SCISSORS  DRAW! Round Score: 6
+67 67 
+0 | SCISSORS  DRAW! Round Score: 6
+67 67 
+0 | SCISSORS  DRAW! Round Score: 6
+67 67 
+0 | SCISSORS  DRAW! Round Score: 6
+67 67 
+0 | SCISSORS  DRAW! Round Score: 6
+67 66 
+1 | PAPER  LOSS! Round Score: 2
+65 66 
+-1 | PAPER  WIN! Round Score: 8
+67 67 
+0 | SCISSORS  DRAW! Round Score: 6
+65 65 
+0 | ROCK  DRAW! Round Score: 4
+67 66 
+1 | PAPER  LOSS! Round Score: 2
+67 67 
+0 | SCISSORS  DRAW! Round Score: 6
+67 65 
+2 | ROCK  WIN! Round Score: 7
+67 67 
+0 | SCISSORS  DRAW! Round Score: 6
+67 65 
+2 | ROCK  WIN! Round Score: 7
+65 67 
+-2 | SCISSORS  LOSS! Round Score: 3
+67 65 
+2 | ROCK  WIN! Round Score: 7
+65 66 
+-1 | PAPER  WIN! Round Score: 8
+66 66 
+0 | PAPER  DRAW! Round Score: 5
+66 67 
+-1 | SCISSORS  WIN! Round Score: 9
+65 66 
+-1 | PAPER  WIN! Round Score: 8
+65 66 
+-1 | PAPER  WIN! Round Score: 8
+67 67 
+0 | SCISSORS  DRAW! Round Score: 6
+67 65 
+2 | ROCK  WIN! Round Score: 7
+66 67 
+-1 | SCISSORS  WIN! Round Score: 9
+66 65 
+1 | ROCK  LOSS! Round Score: 1
+66 66 
+0 | PAPER  DRAW! Round Score: 5
+67 65 
+2 | ROCK  WIN! Round Score: 7
+67 67 
+0 | SCISSORS  DRAW! Round Score: 6
+66 67 
+-1 | SCISSORS  WIN! Round Score: 9
+65 65 
+0 | ROCK  DRAW! Round Score: 4
+67 65 
+2 | ROCK  WIN! Round Score: 7
+67 65 
+2 | ROCK  WIN! Round Score: 7
+67 66 
+1 | PAPER  LOSS! Round Score: 2
+65 65 
+0 | ROCK  DRAW! Round Score: 4
+67 67 
+0 | SCISSORS  DRAW! Round Score: 6
+67 66 
+1 | PAPER  LOSS! Round Score: 2
+65 66 
+-1 | PAPER  WIN! Round Score: 8
+65 65 
+0 | ROCK  DRAW! Round Score: 4
+65 65 
+0 | ROCK  DRAW! Round Score: 4
+66 65 
+1 | ROCK  LOSS! Round Score: 1
+65 66 
+-1 | PAPER  WIN! Round Score: 8
+67 66 
+1 | PAPER  LOSS! Round Score: 2
+67 67 
+0 | SCISSORS  DRAW! Round Score: 6
+67 67 
+0 | SCISSORS  DRAW! Round Score: 6
+67 65 
+2 | ROCK  WIN! Round Score: 7
+67 65 
+2 | ROCK  WIN! Round Score: 7
+65 65 
+0 | ROCK  DRAW! Round Score: 4
+67 67 
+0 | SCISSORS  DRAW! Round Score: 6
+65 67 
+-2 | SCISSORS  LOSS! Round Score: 3
+65 66 
+-1 | PAPER  WIN! Round Score: 8
+65 65 
+0 | ROCK  DRAW! Round Score: 4
+67 65 
+2 | ROCK  WIN! Round Score: 7
+65 66 
+-1 | PAPER  WIN! Round Score: 8
+66 67 
+-1 | SCISSORS  WIN! Round Score: 9
+67 65 
+2 | ROCK  WIN! Round Score: 7
+67 67 
+0 | SCISSORS  DRAW! Round Score: 6
+67 66 
+1 | PAPER  LOSS! Round Score: 2
+67 67 
+0 | SCISSORS  DRAW! Round Score: 6
+67 67 
+0 | SCISSORS  DRAW! Round Score: 6
+67 65 
+2 | ROCK  WIN! Round Score: 7
+67 67 
+0 | SCISSORS  DRAW! Round Score: 6
+65 65 
+0 | ROCK  DRAW! Round Score: 4
+65 66 
+-1 | PAPER  WIN! Round Score: 8
+67 65 
+2 | ROCK  WIN! Round Score: 7
+67 65 
+2 | ROCK  WIN! Round Score: 7
+67 65 
+2 | ROCK  WIN! Round Score: 7
+67 67 
+0 | SCISSORS  DRAW! Round Score: 6
+67 66 
+1 | PAPER  LOSS! Round Score: 2
+67 67 
+0 | SCISSORS  DRAW! Round Score: 6
+66 67 
+-1 | SCISSORS  WIN! Round Score: 9
+67 67 
+0 | SCISSORS  DRAW! Round Score: 6
+66 67 
+-1 | SCISSORS  WIN! Round Score: 9
+65 66 
+-1 | PAPER  WIN! Round Score: 8
+65 65 
+0 | ROCK  DRAW! Round Score: 4
+67 67 
+0 | SCISSORS  DRAW! Round Score: 6
+67 65 
+2 | ROCK  WIN! Round Score: 7
+67 67 
+0 | SCISSORS  DRAW! Round Score: 6
+67 65 
+2 | ROCK  WIN! Round Score: 7
+65 65 
+0 | ROCK  DRAW! Round Score: 4
+67 67 
+0 | SCISSORS  DRAW! Round Score: 6
+67 67 
+0 | SCISSORS  DRAW! Round Score: 6
+67 65 
+2 | ROCK  WIN! Round Score: 7
+67 65 
+2 | ROCK  WIN! Round Score: 7
+67 67 
+0 | SCISSORS  DRAW! Round Score: 6
+65 66 
+-1 | PAPER  WIN! Round Score: 8
+65 67 
+-2 | SCISSORS  LOSS! Round Score: 3
+65 66 
+-1 | PAPER  WIN! Round Score: 8
+67 67 
+0 | SCISSORS  DRAW! Round Score: 6
+67 67 
+0 | SCISSORS  DRAW! Round Score: 6
+67 65 
+2 | ROCK  WIN! Round Score: 7
+67 66 
+1 | PAPER  LOSS! Round Score: 2
+67 65 
+2 | ROCK  WIN! Round Score: 7
+67 66 
+1 | PAPER  LOSS! Round Score: 2
+65 65 
+0 | ROCK  DRAW! Round Score: 4
+67 65 
+2 | ROCK  WIN! Round Score: 7
+65 66 
+-1 | PAPER  WIN! Round Score: 8
+66 67 
+-1 | SCISSORS  WIN! Round Score: 9
+66 67 
+-1 | SCISSORS  WIN! Round Score: 9
+67 65 
+2 | ROCK  WIN! Round Score: 7
+67 65 
+2 | ROCK  WIN! Round Score: 7
+67 67 
+0 | SCISSORS  DRAW! Round Score: 6
+67 65 
+2 | ROCK  WIN! Round Score: 7
+65 66 
+-1 | PAPER  WIN! Round Score: 8
+65 67 
+-2 | SCISSORS  LOSS! Round Score: 3
+65 66 
+-1 | PAPER  WIN! Round Score: 8
+67 65 
+2 | ROCK  WIN! Round Score: 7
+67 67 
+0 | SCISSORS  DRAW! Round Score: 6
+65 66 
+-1 | PAPER  WIN! Round Score: 8
+67 66 
+1 | PAPER  LOSS! Round Score: 2
+67 67 
+0 | SCISSORS  DRAW! Round Score: 6
+66 67 
+-1 | SCISSORS  WIN! Round Score: 9
+65 65 
+0 | ROCK  DRAW! Round Score: 4
+67 65 
+2 | ROCK  WIN! Round Score: 7
+67 67 
+0 | SCISSORS  DRAW! Round Score: 6
+67 67 
+0 | SCISSORS  DRAW! Round Score: 6
+65 66 
+-1 | PAPER  WIN! Round Score: 8
+65 66 
+-1 | PAPER  WIN! Round Score: 8
+65 66 
+-1 | PAPER  WIN! Round Score: 8
+65 66 
+-1 | PAPER  WIN! Round Score: 8
+67 65 
+2 | ROCK  WIN! Round Score: 7
+66 67 
+-1 | SCISSORS  WIN! Round Score: 9
+65 67 
+-2 | SCISSORS  LOSS! Round Score: 3
+66 65 
+1 | ROCK  LOSS! Round Score: 1
+65 65 
+0 | ROCK  DRAW! Round Score: 4
+66 65 
+1 | ROCK  LOSS! Round Score: 1
+67 67 
+0 | SCISSORS  DRAW! Round Score: 6
+67 67 
+0 | SCISSORS  DRAW! Round Score: 6
+67 67 
+0 | SCISSORS  DRAW! Round Score: 6
+66 67 
+-1 | SCISSORS  WIN! Round Score: 9
+65 66 
+-1 | PAPER  WIN! Round Score: 8
+67 67 
+0 | SCISSORS  DRAW! Round Score: 6
+67 66 
+1 | PAPER  LOSS! Round Score: 2
+67 65 
+2 | ROCK  WIN! Round Score: 7
+67 66 
+1 | PAPER  LOSS! Round Score: 2
+65 66 
+-1 | PAPER  WIN! Round Score: 8
+67 65 
+2 | ROCK  WIN! Round Score: 7
+67 66 
+1 | PAPER  LOSS! Round Score: 2
+67 66 
+1 | PAPER  LOSS! Round Score: 2
+65 65 
+0 | ROCK  DRAW! Round Score: 4
+67 66 
+1 | PAPER  LOSS! Round Score: 2
+67 65 
+2 | ROCK  WIN! Round Score: 7
+67 65 
+2 | ROCK  WIN! Round Score: 7
+67 65 
+2 | ROCK  WIN! Round Score: 7
+67 65 
+2 | ROCK  WIN! Round Score: 7
+65 66 
+-1 | PAPER  WIN! Round Score: 8
+65 66 
+-1 | PAPER  WIN! Round Score: 8
+67 65 
+2 | ROCK  WIN! Round Score: 7
+67 67 
+0 | SCISSORS  DRAW! Round Score: 6
+67 67 
+0 | SCISSORS  DRAW! Round Score: 6
+65 66 
+-1 | PAPER  WIN! Round Score: 8
+67 67 
+0 | SCISSORS  DRAW! Round Score: 6
+65 66 
+-1 | PAPER  WIN! Round Score: 8
+67 67 
+0 | SCISSORS  DRAW! Round Score: 6
+67 67 
+0 | SCISSORS  DRAW! Round Score: 6
+67 65 
+2 | ROCK  WIN! Round Score: 7
+67 65 
+2 | ROCK  WIN! Round Score: 7
+67 67 
+0 | SCISSORS  DRAW! Round Score: 6
+67 66 
+1 | PAPER  LOSS! Round Score: 2
+67 67 
+0 | SCISSORS  DRAW! Round Score: 6
+65 65 
+0 | ROCK  DRAW! Round Score: 4
+65 65 
+0 | ROCK  DRAW! Round Score: 4
+67 66 
+1 | PAPER  LOSS! Round Score: 2
+66 67 
+-1 | SCISSORS  WIN! Round Score: 9
+65 65 
+0 | ROCK  DRAW! Round Score: 4
+66 67 
+-1 | SCISSORS  WIN! Round Score: 9
+66 67 
+-1 | SCISSORS  WIN! Round Score: 9
+67 65 
+2 | ROCK  WIN! Round Score: 7
+67 67 
+0 | SCISSORS  DRAW! Round Score: 6
+67 66 
+1 | PAPER  LOSS! Round Score: 2
+65 65 
+0 | ROCK  DRAW! Round Score: 4
+67 67 
+0 | SCISSORS  DRAW! Round Score: 6
+67 66 
+1 | PAPER  LOSS! Round Score: 2
+67 67 
+0 | SCISSORS  DRAW! Round Score: 6
+67 66 
+1 | PAPER  LOSS! Round Score: 2
+65 66 
+-1 | PAPER  WIN! Round Score: 8
+66 65 
+1 | ROCK  LOSS! Round Score: 1
+67 66 
+1 | PAPER  LOSS! Round Score: 2
+67 66 
+1 | PAPER  LOSS! Round Score: 2
+67 65 
+2 | ROCK  WIN! Round Score: 7
+67 65 
+2 | ROCK  WIN! Round Score: 7
+67 67 
+0 | SCISSORS  DRAW! Round Score: 6
+67 67 
+0 | SCISSORS  DRAW! Round Score: 6
+67 65 
+2 | ROCK  WIN! Round Score: 7
+65 66 
+-1 | PAPER  WIN! Round Score: 8
+67 67 
+0 | SCISSORS  DRAW! Round Score: 6
+66 67 
+-1 | SCISSORS  WIN! Round Score: 9
+67 66 
+1 | PAPER  LOSS! Round Score: 2
+67 65 
+2 | ROCK  WIN! Round Score: 7
+67 66 
+1 | PAPER  LOSS! Round Score: 2
+67 67 
+0 | SCISSORS  DRAW! Round Score: 6
+67 65 
+2 | ROCK  WIN! Round Score: 7
+65 65 
+0 | ROCK  DRAW! Round Score: 4
+65 66 
+-1 | PAPER  WIN! Round Score: 8
+67 67 
+0 | SCISSORS  DRAW! Round Score: 6
+66 67 
+-1 | SCISSORS  WIN! Round Score: 9
+67 65 
+2 | ROCK  WIN! Round Score: 7
+67 67 
+0 | SCISSORS  DRAW! Round Score: 6
+67 65 
+2 | ROCK  WIN! Round Score: 7
+67 67 
+0 | SCISSORS  DRAW! Round Score: 6
+67 65 
+2 | ROCK  WIN! Round Score: 7
+65 65 
+0 | ROCK  DRAW! Round Score: 4
+67 67 
+0 | SCISSORS  DRAW! Round Score: 6
+65 65 
+0 | ROCK  DRAW! Round Score: 4
+66 67 
+-1 | SCISSORS  WIN! Round Score: 9
+67 65 
+2 | ROCK  WIN! Round Score: 7
