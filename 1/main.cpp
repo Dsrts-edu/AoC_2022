@@ -14,7 +14,8 @@ int main(){
         std::ifstream input_file("input.txt");
         std::ofstream outfile("out.txt");
         std::vector<int> top_three;
-        
+
+
         for (int i = 0; i < 3; i++){
                 top_three.push_back(0);
         }
