@@ -74,8 +74,8 @@ for i in moves:
                  output.write(str(j) + "\n")
         output.write("\n")
 
-        # this is a (tm) Hot Mess 
-        # enjoy! 
+        #this is a (tm) Hot Mess 
+        # enjoy!
 
 print(len(moves))
 
